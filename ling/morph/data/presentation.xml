@@ -1,0 +1,1062 @@
+<?xml version="1.0"?>
+<presentation title="Морфема" width="1000.0000000" height="750.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{22CF5163-3FB3-4CE5-BE9B-D97370B538D5}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="false"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Морфема" titleNormalized="морфема" src="slide1.swf" size="1379" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфема
+Введение в языкознание
+Минский государственный лингвистический университет
+
+(с) О. С. Горицкая, 2015
+</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="31667" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Содержание
+Вы можете изучать все вопросы подряд или выбрать любую тему</text>
+		</slide>
+		<slide index="2" title="Морфема, проблема ее определения" titleNormalized="морфема, проблема ее определения" src="slide3.swf" size="1596" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфема как минимальная значимая единица языка
+
+Широкое и узкое понимание морфемы
+Морфема, проблема ее определения</text>
+		</slide>
+		<slide index="3" title="Морфема – минимальная значимая единица языка" titleNormalized="морфема – минимальная значимая единица языка" src="slide4.swf" size="24385" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфема – минимальная значимая единица языка
+Термин морфема ввел И. А. Бодуэн де Куртенэ (1845–1929).
+Морфема минимальна, потому что ее нельзя разделить на другие значимые единицы языка. 
+Наличие значения – это то, чем морфемы отличаются от фонем. 
+Морфема отличается от слова меньшей самостоятельностью.
+
+
+ 
+Морфема, проблема ее определения
+
+</text>
+		</slide>
+		<slide index="4" title="Морфема – двусторонняя единица языка, у которой есть план выражения и план содержания" titleNormalized="морфема – двусторонняя единица языка, у которой есть план выражения и план содержания" src="slide5.swf" size="43881" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфема – двусторонняя единица языка, у которой есть план выражения и план содержания
+Рассмотрим слово написал: 
+план выражения морфемы -пис- – последовательность звуков [pjіs] ([п’ис]) (в устной речи), последовательность букв пис (в письменной речи); 
+план содержания – ‘изображать буквы, цифры и другие знаки’.
+План выражения морфемы -л- – звук [l] ([л]) или буква л, план содержания – ‘прошедшее время’.
+Морфема, проблема ее определения
+</text>
+		</slide>
+		<slide index="5" title="Морфема – компонент слова, но значение слова часто не совпадает с суммой значений морфем" titleNormalized="морфема – компонент слова, но значение слова часто не совпадает с суммой значений морфем" src="slide6.swf" size="39631" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфема – компонент слова, но значение слова часто не совпадает с суммой значений морфем
+М. В. Панов (1920–2001) писал: «Между смыслом частей и смыслом целого получается зазор, люфт. Это обычно для слова, это норма для него». 
+Данное свойство называется идиоматичностью или фразеологичностью семантики слова. Ср. значение фразеологизма валять дурака.
+Морфема, проблема ее определения
+
+Вечерник – студент вечернего отделения
+Ночник – лампа (или магазин)
+Утренник – праздник в детском саду
+Дневник – журнал для записей</text>
+		</slide>
+		<slide index="6" title="Особый тип морфем – нулевые" titleNormalized="особый тип морфем – нулевые" src="slide7.swf" size="10501" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Особый тип морфем – нулевые
+У них нулевой план выражения. 
+Нулевые морфемы выделяются при сопоставлении слова (словоформы) с другими словами (словоформами), где есть материально выраженные морфемы.
+Например, в слове прилег есть две нулевые морфемы: суффикс (ср. прилегла или написал) и окончание (ср. прилегла).
+Нулевое окончание ≠ отсутствие окончания. Нулевое окончание выделяется в изменяемых словах (таксист, прилег). В неизменяемых словах (такси) нет окончания.
+
+
+Морфема, проблема ее определения
+
+</text>
+		</slide>
+		<slide index="7" title="Морфемы выполняют строительную функцию" titleNormalized="морфемы выполняют строительную функцию" src="slide8.swf" size="22077" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфемы выполняют строительную функцию
+Из морфем построено огромное количество слов и еще много слов можно построить:
+Дед  дедушка  прадедушка  прапрадедушка…
+
+Морфема, проблема ее определения</text>
+		</slide>
+		<slide index="8" title="Морфема, как и фонема, абстрактна и нематериальна" titleNormalized="морфема, как и фонема, абстрактна и нематериальна" src="slide9.swf" size="28880" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфема, как и фонема, абстрактна и нематериальна 
+Морфема – это единица языка, которая представлена в речи морфами.
+Аналогично: фонема представлена в речи звуками.
+Например, корень по-разному звучит в словах нога, но́ги, ног и ножка. Это алломорфы корневой морфемы -ног-.
+
+
+Морфема, проблема ее определения
+
+
+Ф. де Соссюр (1857–1913), который противопоставил язык и речь</text>
+		</slide>
+		<slide index="9" title="Морфемы повторяются в разных словах" titleNormalized="морфемы повторяются в разных словах" src="slide10.swf" size="15372" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Морфемы повторяются в разных словах
+Мы выделяем морфемы, сопоставляя слова, где повторяются одни и те же компоненты.
+Например, в слове усатый выделяются следующие морфемы:
+корень -ус- (усы, усики), 
+суффикс -ат- (бородатый, волосатый), 
+окончание -ый (добрый). 
+Морфема, проблема ее определения
+
+Дополнительный материал. Повторяемость как свойство морфемы вызывает дискуссии. Если хотите узнать, что такое спор о буженине, перейдите по ссылке.</text>
+		</slide>
+		<slide index="10" title="«Спор о буженине»" titleNormalized="«спор о буженине»" src="slide11.swf" size="27068" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>«Спор о буженине»
+Слово буженина стоит в одном ряду с названиями типа баранина или свинина, но -бужен- не повторяется в более простых по структуре словах (баран есть, а бужена нет), и поэтому мы не можем точно определить значение этой части слова (буженина – это мясо какого животного?). 
+Как разделить слово буженина на морфемы? Есть два варианта, и в каждом из них своя логика:
+Выделить корень буженин- и окончание -а.
+Выделить корень -бужен-, суффикс -ин- и окончание -а.
+Морфема, проблема ее определения
+
+Аналогичные вопросы вызывают слова типа почтамт: нам хочется выделить корень -почт-, потому что почтамт – это ‘главное почтовое учреждение города’, но часть -амт- нигде больше не встречается.</text>
+		</slide>
+		<slide index="11" title="Языки устроены по-разному, и поэтому сложно дать универсальное определение морфемы" titleNormalized="языки устроены по-разному, и поэтому сложно дать универсальное определение морфемы" src="slide12.swf" size="2552" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Языки устроены по-разному, и поэтому сложно дать универсальное определение морфемы
+Но в ряде языков Юго-Восточной Азии (тайском, вьетнамском, классическом китайском и др.) в слове обычно есть только одна морфема – корень (или нескольких корней). В таких языках приставок, суффиксов и окончаний очень мало или нет вовсе. 
+
+Привычная для нас теория морфемы была разработана для языков типа русского, английского или немецкого. 
+В таких языках слова часто состоят из нескольких морфем, поэтому морфема воспринимается как несамостоятельная единица, выполняющая строительную функцию. 
+
+Морфема, проблема ее определения
+
+
+</text>
+		</slide>
+		<slide index="12" title="Юань Чжэнь (779–831) написал текст на китайском языке, где один слог повторяется 106 раз с разными тонами" titleNormalized="юань чжэнь (779–831) написал текст на китайском языке, где один слог повторяется 106 раз с разными тонами" src="slide13.swf" size="150815" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2bc75f30.spr0_15840247" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2bc75f30.spr2_15840247" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Юань Чжэнь (779–831) написал текст на китайском языке, где один слог повторяется 106 раз с разными тонами 
+Примерный перевод: 
+Поэт из каменного дома господин Жи любил львов и решил съесть десять львов. Этот господин время от времени ходил на рынок, чтобы выбрать львов. Когда он пришел в десять часов на рынок, случилось так, что на рынке появилось десять больших львов. И вот этот господин посмотрел на десять львов и, доверившись силе десяти каменных стрел, заставил десять львов покинуть наш мир.
+Морфема, проблема ее определения
+
+См. видео.</text>
+		</slide>
+		<slide index="13" title="Термин морфема используется в узком и широком понимании" titleNormalized="термин морфема используется в узком и широком понимании" src="slide14.swf" size="3463" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Термин морфема используется в узком и широком понимании 
+При узком понимании термина морфема так называются только части слов типа корня, префикса (приставки), суффикса и т.п. Такие морфемы называются сегментными.
+При широком понимании к морфемам относятся не только сегментные, но и суперсегментные морфемы:
+значимые чередования в корнях (внутренняя флексия): англ. foot ‘нога’ – feet ‘но́ги’, нем. Mutter ‘мать’ – Mütter ‘матери’ (мн.ч.); 
+изменение тона (пример про господина Жи) и ударения (рус. но́ги – ноги́).
+Одно и то же значение, например, мн.ч. может выражаться окончанием, чередованием в корне, изменением ударения и тона.
+
+Морфема, проблема ее определения
+</text>
+		</slide>
+		<slide index="14" title="При широком понимании морфемы в этот класс единиц иногда включают и служебные слова" titleNormalized="при широком понимании морфемы в этот класс единиц иногда включают и служебные слова" src="slide15.swf" size="41160" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>При широком понимании морфемы в этот класс единиц иногда включают и служебные слова
+Это связано с тем, что служебные слова (частицы, предлоги, артикли) и морфемы близки по функциям.
+Такое грамматическое значение, как ‘определенность’, в одних языках выражается отдельным словом, а в других – частью слова. ‘Эта (определенная) книга’ по-английски – the book, а по-болгарски – книгата. 
+Отрицание в русском языке может выражаться частицей не (не понял) и приставкой не (нелогичный).
+
+Морфема, проблема ее определения</text>
+		</slide>
+		<slide index="15" title="Проблема определения морфемы: обобщение" titleNormalized="проблема определения морфемы: обобщение" src="slide16.swf" size="23820" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Проблема определения морфемы: обобщение
+Морфема – это минимальная значимая единица языка. У морфемы есть план выражения и план содержания.
+Языки устроены по-разному, и поэтому сложно дать универсальное определение морфемы.
+«Обычные» (сегментные) морфемы сближаются по функциям со служебными словами, ударением, тоном и чередованиями (например, значение мн.ч. может выражаться окончанием, чередованием в корне или ударением). Есть два понимания термина морфема: узкое (только сегмантные морфемы) и широкое (сегментные и суперсегментные морфемы, служебные слова).
+
+Морфема, проблема ее определения
+</text>
+		</slide>
+		<slide index="16" title="Исторические изменения морфемного состава слова" titleNormalized="исторические изменения морфемного состава слова" src="slide17.swf" size="1527" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Опрощение
+
+Переразложение
+
+Осложнение
+Исторические изменения морфемного состава слова</text>
+		</slide>
+		<slide index="17" title="Основные типы" titleNormalized="основные типы" src="slide18.swf" size="3373" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Основные типы
+Опро́щение
+слово превращается из производного в непроизводное
+Переразложение
+перемещаются границы между морфемами в слове или конструкции 
+Осложнение
+слово превращается из непроизводного в производное
+Исторические изменения морфемного состава слова
+Производное слово образовано от другого слова, непроизводное – ни от чего не образовано.
+осложнение
+опрощение
+переразложение</text>
+		</slide>
+		<slide index="18" title="Опро́щение: бел-к-а &gt; белк-а" titleNormalized="опро́щение: бел-к-а &gt; белк-а" src="slide19.swf" size="19471" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Опро́щение: бел-к-а &gt; белк-а
+Раньше: бел-к-а
+Когда-то в слове белка выделялся корень -бел- и суффикс -к-. Тогда этим словом обозначали белок с очень светлой, почти белой шерстью («простые» белки назывались веверицами). 
+
+Сейчас: белк-а 
+Со временем слово белка расширило свое значение и стало обозначать белок любого цвета. Сейчас мы уже не видим связи между словами белый и белка и поэтому не выделяем в слове белка суффикс -к-.
+
+Исторические изменения морфемного состава слова
+</text>
+		</slide>
+		<slide index="19" title="*Опро́щение – это изменение в морфемной структуре слова, а опроще́ние – идеология" titleNormalized="*опро́щение – это изменение в морфемной структуре слова, а опроще́ние – идеология" src="slide20.swf" size="65004" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>*Опро́щение – это изменение в морфемной структуре слова, а опроще́ние – идеология
+Опроще́нием называется стремление к простоте. Например, Л. Н. Толстой так сформулировал принципы своего образа жизни:
+«…Доход отдать на бедных и школы… Прислуги держать только столько, сколько нужно… и то на время, приучаясь обходиться без них… Кроме кормления себя и детей и учения, работа, хозяйство… По воскресеньям обеды для нищих и бедных и чтение и беседы. Жизнь, пища, одежда – всё самое простое. Всё лишнее: фортепьяно, мебель, экипажи – продать, раздать…»
+В лингвистическом термине осложне́ние не происходит перенос ударения, т.к. нет близких по звучанию слов из философии, идеологии и других сфер.
+Исторические изменения морфемного состава слова
+</text>
+		</slide>
+		<slide index="20" title="Переразложение: сн им &gt; c ним, -н- + -ик- &gt; -ник-" titleNormalized="переразложение: сн им &gt; c ним, -н- + -ик- &gt; -ник-" src="slide21.swf" size="4726" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Переразложение: сн им &gt; c ним, -н- + -ик- &gt; -ник-
+Когда-то согласный Н относился к предлогу, но в результате переразложения стал восприниматься как часть корня местоимений: сн им &gt; с ним, вн их &gt; в них, кн ему &gt; к нему. 
+В конструкциях с другими предлогами Н добавился по аналогии: для них, у него.
+Предлог-приставка сн- когда-то выделялся и в слове снедь 'то, что едят’ (в этом слове произошло опрощение).
+
+
+
+При переразложении также могут объединяться суффиксы или приставки (в отличие от опрощения, слово остается производным).
+Слово дворник когда-то было образовано от дворный (слуга) при помощи суффикса -ик-. Потом суффиксы -н- и -ик- объединились в -ник-, т.к. исчезло слово дворный, но осталось слово двор.
+Исторические изменения морфемного состава слова
+
+Дополнительный материал. Если вам интересно, почему примеры типа сн им &gt; с ним относят к изменениям морфемной структуры слова, откройте этот слайд.</text>
+		</slide>
+		<slide index="21" title="Служебные слова и морфемы близки по функциям" titleNormalized="служебные слова и морфемы близки по функциям" src="slide22.swf" size="3169" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="1" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Служебные слова и морфемы близки по функциям
+Переразложение – это историческое изменение морфемной структуры слова. Но фактически при переходе кн ему &gt; к нему изменения происходят на стыке двух разных слов – предлога и местоимения.
+Похожие изменения затронули и слово снять, которое было образовано от исчезнувшего ять (яти) ‘брать’ при помощи сн-: Н отошло от приставки к корню. Сравните: взять – ять.
+Обратите внимание и на саму формулировку предлог-приставка (так называются единицы типа сн-).
+Исторические изменения морфемного состава слова
+
+Границы между единицами языка – словами и морфемами – являются нечеткими.</text>
+		</slide>
+		<slide index="22" title="Осложне́ние: зонтик &gt; зонт-ик" titleNormalized="осложне́ние: зонтик &gt; зонт-ик" src="slide23.swf" size="13546" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Осложне́ние: зонтик &gt; зонт-ик
+Осложнение происходит в заимствованиях.
+В XVIII в. слово зонтик было заимствовано из нидерландского (голландского) языка: zondek ‘покрышка от солнца’. В то время в слове зонтик не могло быть суффикса -ик-, т.к. слова зонт в русском языке не существовало. 
+Потом носители русского языка сопоставили слово зонтик со словами типа дом-ик и кот-ик (закон аналогии). Так в русском языке возникло слово зонт, а в слове зонтик выделился корень -зонт- и суффикс -ик-. 
+Исторические изменения морфемного состава слова
+
+.</text>
+		</slide>
+		<slide index="23" title="Чтобы определить тип изменения, запишите слово дважды и определите морфемный состав в прошлом и в настоящем" titleNormalized="чтобы определить тип изменения, запишите слово дважды и определите морфемный состав в прошлом и в настоящем" src="slide24.swf" size="21112" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Чтобы определить тип изменения, запишите слово дважды и определите морфемный состав в прошлом и в настоящем 
+Чтобы узнать, как слово делилось на морфемы раньше, нужно открыть этимологический словарь (в таких словарях дается информация об истории слов).
+При опрощении слово не становится короче. Уменьшается количество морфем, т.к. теряется связь между словами (производным и производящим): бел-к-а &gt; белк-а.
+При осложнении слово не становится длиннее. Увеличивается количество морфем за счет того, что какая-то морфема разбивается на части по аналогии с другими словами: зонтик &gt; зонт-ик. 
+
+Исторические изменения морфемного состава слова
+</text>
+		</slide>
+		<slide index="24" title="Сравните" titleNormalized="сравните" src="slide25.swf" size="2653" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Сравните
+Опрощение: бел-к-а &gt; бел-к-а
+Осложнение: зонтик-☐ &gt; зонт-ик-☐
+Исторические изменения морфемного состава слова
+опрощение
+осложнение</text>
+		</slide>
+		<slide index="25" title="Сравните" titleNormalized="сравните" src="slide26.swf" size="2300" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Сравните
+Опрощение
+Слово превращается из производного в непроизводное: 
+бел-к-а &gt; белк-а.
+Переразложение
+Слово не меняет свой характер:
+предлог и местоимение (кн ему &gt; к нему) остаются непроизводными,
+слова двор-н-ик и двор-ник – производными.
+Исторические изменения морфемного состава слова
+</text>
+		</slide>
+		<quiz index="26" title="Тест по историческим изменениям" titleNormalized="тест по историческим изменениям" src="quiz1.swf" size="1313953" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset26" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="27" title="Классификации морфем" titleNormalized="классификации морфем" src="slide28.swf" size="1596" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация морфем по роли в структуре слова
+
+Классификации аффиксов по функции, по количеству сем, по положению в слове
+Классификации морфем</text>
+		</slide>
+		<slide index="28" title="Классификация морфем по роли в структуре слова" titleNormalized="классификация морфем по роли в структуре слова" src="slide29.swf" size="2770" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация морфем по роли в структуре слова
+Аффиксы
+служебные морфемы (суффиксы, окончания, приставки), которые выражают более абстрактные значения: сравните значения слов перечитать и дочитать;
+необязательны (есть слова без аффиксов), например, в неизменяемом слове кофе нет аффиксов.
+Классификации морфем
+
+Корни
+смысловое ядро и структурный центр слов, выражают более конкретные значения; например, в слове читать корень обозначает ‘воспринимать что-л. написанное или напечатанное буквами или другими письменными знаками’; 
+обязательны (слов без корней нет).
+
+</text>
+		</slide>
+		<slide index="29" title="Классификация аффиксов по функции" titleNormalized="классификация аффиксов по функции" src="slide30.swf" size="2730" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация аффиксов по функции
+Словообразовательные аффиксы
+(словообразующие, деривационные)
+образуют новое слово – меняется лексическое значение.
+В слове переписала есть словообразующий аффикс пере-: переписала ‘написала заново, скопировала’, значение слов переписала и писала различаются.
+Формообразовательные аффиксы
+(формообразующие, словоизменительные)
+образуют форму того же слова –лексическое значение не меняется.
+В слове переписала есть формообразующие аффиксы -л- (прош. вр.) и -а (ж.р., ед.ч.).
+Классификации морфем
+</text>
+		</slide>
+		<slide index="30" title="Классификация аффиксов по количеству сем" titleNormalized="классификация аффиксов по количеству сем" src="slide31.swf" size="5271" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация аффиксов по количеству сем
+Моносемные – одна сема.
+В слове перепишите аффикс -те выражает только значение мн.ч.
+
+Полисемные – больше одной семы.
+В слове перепишу аффикс -у выражает значения 1-го л., ед. ч., буд. вр., изъявит. наклон.
+
+Классификации морфем
+
+Сема – это компонент значения.
+Это классификация важна для грамматики и поэтому касается формообразующих аффиксов.</text>
+		</slide>
+		<slide index="31" title="Различия в языках" titleNormalized="различия в языках" src="slide32.swf" size="2817" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Различия в языках
+Есть языки, в которых аффиксы могут быть только моносемными. Пример из казахского языка: 
+ата ‘отец’ ,
+аталар ‘отцы’ (лар – мн.ч.),
+аталарды ‘отцов’ (лар – мн.ч., ды – В.п.).
+
+Пример из русского: 
+перепишите.
+
+В других языках аффиксы могут быть и полисемными, и моносемными. Пример из русского языка: 
+(видеть) отцов: ов обозначает и В.п., и мн.ч.
+
+Классификации морфем
+</text>
+		</slide>
+		<slide index="32" title="Классификация аффиксов по положению в слове (относительно корня)" titleNormalized="классификация аффиксов по положению в слове (относительно корня)" src="slide33.swf" size="51429" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация аффиксов по положению в слове (относительно корня)
+Классификации морфем
+
+Вторая часть этих терминов связана с латинским словом, означающим ‘прикреплять, фиксировать’.</text>
+		</slide>
+		<slide index="33" title="Префиксы, постфиксы и конфиксы" titleNormalized="префиксы, постфиксы и конфиксы" src="slide34.swf" size="27590" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Префиксы, постфиксы и конфиксы
+Префикс – приставка.
+Постфикс – родовое обозначение для суффиксов и окончаний (флексий).
+Прямое значение слова рассадник – ‘место, где выращивают рассаду’. Когда мы сравниваем слово рассадник со словом рассада, мы выделяем суффикс -ник-. Рассада – это то, что рассадили. Сопоставив рассадить и садить, мы найдем приставку рас-.
+
+ 
+Конфикс – морфема, состоящая из двух компонентов (один находится перед корнем, другой – после корня).
+Пример – конфикс под…ник в слове подоконник. В русском языке нет слов *подокон или *оконник, и следовательно, в слове подоконник нельзя выделить две отдельные морфемы: приставку под- и суффикс -ник- .
+ 
+
+Классификации морфем
+</text>
+		</slide>
+		<slide index="34" title="Обратите внимание: мы будем использовать термин постфикс в широком значении" titleNormalized="обратите внимание: мы будем использовать термин постфикс в широком значении" src="slide35.swf" size="2631" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Обратите внимание: мы будем использовать термин постфикс в широком значении
+Постфиксами мы будем называть все морфемы, стоящие после корня (например, суффиксы и окончания).
+В школьных учебниках русского и белорусского языков термин постфикс используется в узком значении – ‘отдельный аффикс, который следует после окончания’: пишите.
+
+Классификации морфем
+
+
+В терминологии много условностей. Иногда один термин понимается по-разному.</text>
+		</slide>
+		<slide index="35" title="Различия в языках" titleNormalized="различия в языках" src="slide36.swf" size="2405" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Различия в языках
+В африканских языках банту (суахили и др.) используются главным образом префиксы. 
+Тюркские языки (турецкий, туркменский и др.) «любят» постфиксы. 
+
+В русском и белорусском есть как префиксы, так и постфиксы (последние более активны и разнообразны).
+Классификации морфем
+</text>
+		</slide>
+		<slide index="36" title="Интерфиксы" titleNormalized="интерфиксы" src="slide37.swf" size="3106" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Интерфиксы
+Интерфиксы стоят между корнями.
+Интерфиксы выполняют структурную функцию и не имеют значения как такового, поэтому они иногда исключаются из состава морфем.
+Примеры: 
+бетономешалка, 
+нем. Arbeitszimmer ‘кабинет, студия’, 
+англ. speedometer ‘спидометр’.
+Классификации морфем
+</text>
+		</slide>
+		<slide index="37" title="Инфиксы" titleNormalized="инфиксы" src="slide38.swf" size="3129" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Инфиксы
+Инфиксы стоят внутри корня в одном месте. 
+В тагальском языке (Филиппины) есть много инфиксов, например, um:
+sulat – ‘писать’, а sumulat – ‘я писал’,
+hanap – ‘находить’, а humanap – ‘я находил’.
+Для современных индоевропейских языков (русского, английского, немецкого и др.) такие аффиксы не характерны. Но индоевропейском праязыке (языке-предке) такие аффиксы использовались. Следы этого сохранились, например, в литовском: lipti ‘прилипать’, limpu ‘липнет’.
+</text>
+		</slide>
+		<slide index="38" title="Трансфиксы" titleNormalized="трансфиксы" src="slide39.swf" size="3065" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Трансфиксы
+В афразийских языках (в частности, в арабском) слово состоит из двух компонентов:
+корня из согласных,
+трансфикса из гласных, разрывающего корень в нескольких местах.
+Например, корень k-t-b встречается во многих словах, связанных с письмом:
+kitab – ‘книга’ (трансфикс i-а-),
+kutub – ‘книги’ (трансфикс u-u-),
+kataba – ‘(он) написал’ (трансфикс a-а-a).
+
+
+Классификации морфем
+</text>
+		</slide>
+		<slide index="39" title="Трансфиксы" titleNormalized="трансфиксы" src="slide40.swf" size="44636" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Трансфиксы
+Классификации морфем
+
+корень
+трансфикс
+слово</text>
+		</slide>
+		<quiz index="40" title="Тест по классификациям" titleNormalized="тест по классификациям" src="quiz2.swf" size="1052828" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset40" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="41" title="Вы прошли тему «Морфема»!" titleNormalized="вы прошли тему «морфема»!" src="slide42.swf" size="15788" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Вы прошли тему «Морфема»!
+Конец</text>
+		</slide>
+	</slides>
+</presentation>

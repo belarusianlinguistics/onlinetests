@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<presentation guid="F044D836-ED57-447D-ACC2-22572399E92F" version="0" availableOffline="1">
+	<info>
+		<title>Орфоэпия</title>
+		<description/>
+	</info>
+	<files index="id49" thumbnail="id50" totalSize="4219540">
+		<file id="id0">data/movie.swf</file>
+		<file id="id1">data/flash.png</file>
+		<file id="id2">data/flash-required.html</file>
+		<file id="id3">data/img1.jpg</file>
+		<file id="id4">data/img2.png</file>
+		<file id="id5">data/img3.png</file>
+		<file id="id6">data/img4.png</file>
+		<file id="id7">data/img5.png</file>
+		<file id="id8">data/img6.png</file>
+		<file id="id9">data/img7.png</file>
+		<file id="id10">data/img8.png</file>
+		<file id="id11">data/img9.png</file>
+		<file id="id12">data/img10.png</file>
+		<file id="id13">data/img11.jpg</file>
+		<file id="id14">data/img12.png</file>
+		<file id="id15">data/img13.png</file>
+		<file id="id16">data/img14.png</file>
+		<file id="id17">data/img15.png</file>
+		<file id="id18">data/img16.png</file>
+		<file id="id19">data/img17.png</file>
+		<file id="id20">data/img18.png</file>
+		<file id="id21">data/img19.png</file>
+		<file id="id22">data/img20.jpg</file>
+		<file id="id23">data/img21.png</file>
+		<file id="id24">data/img22.png</file>
+		<file id="id25">data/img23.png</file>
+		<file id="id26">data/img24.png</file>
+		<file id="id27">data/fnt1.woff</file>
+		<file id="id28">data/fnt2.woff</file>
+		<file id="id29">data/fnt3.woff</file>
+		<file id="id30">data/fnt4.woff</file>
+		<file id="id31">data/fnt5.woff</file>
+		<file id="id32">data/fnt6.woff</file>
+		<file id="id33">data/fnt7.woff</file>
+		<file id="id34">data/fnt8.woff</file>
+		<file id="id35">data/fnt9.woff</file>
+		<file id="id36">data/fnt10.woff</file>
+		<file id="id37">data/fnt11.woff</file>
+		<file id="id38">data/fnt12.woff</file>
+		<file id="id39">data/fnt13.woff</file>
+		<file id="id40">data/fnt14.woff</file>
+		<file id="id41">data/fnt15.woff</file>
+		<file id="id42">data/player.js</file>
+		<file id="id43">data/apple-touch-icon.png</file>
+		<file id="id44">data/favicon.ico</file>
+		<file id="id45">html5.html</file>
+		<file id="id46">data/html5.png</file>
+		<file id="id47">data/html5-unsupported.html</file>
+		<file id="id48">data/isplayer.js</file>
+		<file id="id49">index.html</file>
+		<file id="id50">data/ios/ios_preview.png</file>
+		<file id="id51">data/ios/ios_thumb.png</file>
+		<file id="id52">data/ios/app_icon.png</file>
+		<file id="id53">data/ios/app_store.png</file>
+		<file id="id54">data/ios/ipad.jpg</file>
+		<file id="id55">data/ios/launch_button.png</file>
+		<file id="id56">data/ios/shadows/bottom-left-shadow.jpg</file>
+		<file id="id57">data/ios/shadows/bottom-right-shadow.jpg</file>
+		<file id="id58">data/ios/shadows/left-bottom-shadow.jpg</file>
+		<file id="id59">data/ios/shadows/left-middle.jpg</file>
+		<file id="id60">data/ios/shadows/left-top-shadow.jpg</file>
+		<file id="id61">data/ios/shadows/middle-bottom-shadow.jpg</file>
+		<file id="id62">data/ios/shadows/middle-left-shadow.jpg</file>
+		<file id="id63">data/ios/shadows/middle-right-shadow.jpg</file>
+		<file id="id64">data/ios/shadows/right-bottom-shadow.jpg</file>
+		<file id="id65">data/ios/shadows/right-top-shadow.jpg</file>
+		<file id="id66">data/ios/shadows/top-left-shadow.jpg</file>
+		<file id="id67">data/ios/shadows/top-right-shadow.jpg</file>
+		<file id="id68">data/ios/shadows/top-shadow.jpg</file>
+		<file id="id69">data/ios/style.css</file>
+		<file id="id70">data/ispinstall.html</file>
+		<file id="id71">ios.html</file>
+		<file id="id72">metainfo.xml</file>
+	</files>
+</presentation>

@@ -1,0 +1,328 @@
+/* Главная страница */
+
+body {
+	height:100%;
+	width: 100%;    
+	background: url("../images/bg.png") repeat top center #fdfdfd;    
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	font-family: PT Sans, Tahoma, sans-serif;
+	color: #555;
+}
+
+.clear {	clear: both; }
+
+img {
+	border:0; 
+	display:block; 
+	padding:0;  
+	margin:0;
+}
+
+
+
+/* Главная страница - Шапка */
+
+#header {
+	background: url("../images/back_top.png") repeat-x top center #2196c1;   
+	width: 100%;
+	height: 540px;
+}
+
+
+/* Навигационная панель с лого */
+
+.whiteline {
+	background: #fff;
+	height: 6px;
+	width: 100%;
+}
+
+#navpanel {
+	width: 1004px;
+	height:200px;
+	margin: 0 auto;
+	font-family: Roboto, Tahoma, sans-serif;
+}
+
+
+/* Лого */
+
+#logo {
+	width: 250px;
+	height: 170px;
+	margin: 20px 137px 30px 137px;
+	float: left;
+}
+
+
+/* Левая и правая часть меню */
+
+#menu_left, #menu_right {
+	display:block;
+	float: left;
+	width: 240px;
+	margin: 20px 0;
+}
+
+#menu_left {	text-align: right; }
+
+#menu_right { text-align: left; }
+
+#menu_left a, #menu_right a   {
+	color: #fff;
+	font-size: 1.1em;
+	text-decoration: underline;	
+	display: block;
+	padding: 3px 6px 1px 6px;
+	margin: 10px 0px 10px 0px;
+	text-transform: uppercase;
+}
+
+#menu_left a:hover, #menu_right a:hover   {
+	text-decoration: underline;
+	color: #dfdfdf;
+}
+
+#header a.current {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	text-decoration: underline;	
+}
+
+
+/* Слайдер */
+
+#featured_slide {
+	width:100%;	
+	height:230px;
+	margin: 104px 0px 0px 0px;	
+	background: url("../images/transparent_bg.png") repeat top center; 
+}
+
+#featured {
+	margin:0px auto;	
+	width: 1004px;
+}
+
+#featured_slide  img {
+	width: 370px;	
+	padding: 0px;
+	margin: -121px 0px 0px 0px;	
+	height: 350px;
+	float: left;
+}
+
+#featured_slide  img.info{ 
+	float: left;
+	height: 150px;
+	width: 600px;
+	margin: 40px 0px 0px 0px;	
+}
+
+#featured_slide ul.ui-tabs-nav { list-style:none; height: 0px; }
+#featured_slide .ui-tabs-hide { display:none; }
+
+
+
+/* Блок с тезисами о Карте и изображением Карты */
+
+#slogan_area {
+	width: 100%;
+	height: 300px;
+	background: #fff;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+	margin-top: -1px;
+}
+
+#slogan_container {
+	width: 1004px;
+	margin: 0 auto;	
+}
+
+#slogan_text {
+	margin: 40px 0px 0px 0px;
+	float: left;
+	width: 660px;
+	height: 300px;
+	line-height: 1.4;
+}
+
+#left_slogan  h2, #right_slogan h2 {
+	float: left;
+	font-size: 1.1em;
+	display: block;
+	margin-right: 20px;
+	font-weight: 500;
+}
+
+#left_slogan  h2 { 
+	text-align: right; 	
+	width: 295px;
+}
+
+#right_slogan h2 { 
+	text-align: left; 	
+	width: 325px;
+}
+
+#red { color: #f23e19; }
+#green { color: #5aac01; }
+#blue { color: #0193c8; }
+#orange { color: #f27801; }
+
+img#image_card {
+	float: left;
+	width: 328px;
+	height: 201px;
+	margin: 50px 0px 0px 0px;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+	border: 1px solid #0074ab;
+}
+
+
+
+/* Информационные блоки на главной странице */
+
+#infoblocks_area {
+	width: 1004px;
+	margin: 80px auto 50px auto;
+}
+
+.infoblock {
+	width: 480px;
+	height: 460px;
+	margin: 50px 0px 0px 0;
+	background: #fff;
+	border-radius: 0 0 6px 6px;
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+	border-top: solid 6px;
+}
+
+.infoblock  h1 {
+	font-size: 1.8em;
+	margin: 30px 40px 0px 40px;
+	font-weight: normal;	
+	text-align: center;
+}
+
+.infoblock  h2 {
+	line-height: 1.4;
+	font-size: 1.2em;
+	color: #555;
+	margin: 20px 40px 40px 40px;
+	font-weight: normal;	
+	text-align: center;
+}
+
+.infoblock.one a { color: #2cb2c7; }
+.infoblock.two a { color: #117a97; }
+.infoblock.three a { color: #68ae2c; }
+.infoblock.four a { color: #62a940; }
+
+.infoblock.one, .infoblock.three { float: left; }
+.infoblock.two, .infoblock.four { float: right; }
+
+.infoblock.one { border-color: #2cb2c7; }
+.infoblock.two { border-color: #117a97; }
+.infoblock.three { border-color: #7fba4d; }
+.infoblock.four { border-color: #6caf4b; }
+
+.infoblock_image {
+	margin: -71px auto 0px auto;
+	width: 142px;
+	height: 142px;
+}
+
+
+
+/* Баннеры-логотипы компаний */
+
+#banners {
+	width: 100%;
+	height: 150px;
+	background: #fff;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+	margin: 90px 0 70px 0;
+}
+
+#banners .container {
+	width: 760px;
+	margin: 0 auto;
+}
+
+#banners img{
+	float: left;
+	margin: 15px 30px;
+	width: 140px;
+	height: 120px;
+}
+
+#banners img.bank {
+	width: 300px;
+	height: 120px;
+}
+
+
+
+/* Социальные кнопки */
+
+#social  {
+	width: 320px;
+	margin: 0 auto 10px auto;
+}
+
+#social img{
+	float: left;
+	margin: 5px;
+	width: 53px;
+	height: 53px;
+}
+
+
+/* Футер */
+
+#footer {
+	width: 100%;
+	height: 210px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+	margin: 10px 0 0 0;
+	background: url("../images/back_top.png") repeat-x top center #38bdc5;   
+	color: #fff;
+}
+
+#footer .container {
+	width: 1004px;
+	margin: 0 auto;
+}
+
+#footer #logo {
+	width: 140px;
+	height: 100px;
+	margin: 50px 70px 20px 70px;
+	float: left;
+}
+
+#footer_info_left{
+	float: left;
+	width: 360px;
+	text-align: right;
+	margin-top: 50px;
+}
+
+#footer_info_right{
+	float: left;
+	width: 340px;
+	text-align: left;
+	margin-top: 55px;
+}
+
+#footer a{
+	color: #fff;
+}
+
+.strong {
+	font-weight: 700;
+}

@@ -1,0 +1,1080 @@
+<?xml version="1.0"?>
+<presentation title="Артикуляционный аспект" width="1000.0000000" height="750.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{51EF4AB7-9799-4FD9-8B44-C71C78ACC2E8}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb44.swf" embedded="0"/>
+		<graphicAsset id="imgAsset44" src="thmb45.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="false"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Артикуляционный аспект звуков речи" titleNormalized="артикуляционный аспект звуков речи" src="slide1.swf" size="1444" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Артикуляционный аспект звуков речи
+Введение в языкознание
+Минский государственный лингвистический университет
+
+(с) О. С. Горицкая, 2015</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="28493" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Содержание
+Вы можете изучать все вопросы подряд или выбрать 
+любую тему</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="1505" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Акустический 
+Артикуляционный
+Функциональный
+Аспекты изучения звуков речи</text>
+		</slide>
+		<slide index="3" title="3 аспекта" titleNormalized="3 аспекта" src="slide4.swf" size="16124" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>3 аспекта
+Акустический
+= физический
+
+Какие физические свойства есть у звуков речи? 
+Артикуляционный
+= анатомо-физиологический, биологический
+
+Как органы тела участвуют в образовании звуков?
+Функциональный
+= собственно лингвистический
+
+Как организован звуковой строй языка? Каковы функции фонем?
+
+
+Аспекты изучения звуков речи
+Фонетика – раздел лингвистики, который изучает звуковую сторону языка.
+Это область, где языкознание соприкасается с естественными науками (физикой и биологией). В фонетических исследованиях активно используются компьютерные технологии.</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="1441" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Зоны речевого аппарата и их функции
+
+Органы каждой зоны
+
+
+Речевой аппарат</text>
+		</slide>
+		<slide index="5" title="Основные понятия" titleNormalized="основные понятия" src="slide6.swf" size="32289" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Основные понятия
+Артикуляция –
+работа речевого аппарата при образовании звуков. 
+
+Речевой аппарат –
+совокупность органов, которые участвуют в образовании звуков речи. 
+
+Речевой аппарат
+</text>
+		</slide>
+		<slide index="6" title="Потребность создала себе свой орган" titleNormalized="потребность создала себе свой орган" src="slide7.swf" size="2200" advanceOnTime="0" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Потребность создала себе свой орган
+Фридрих Энгельс
+Изначально органы, которые мы называем речевым аппаратом, были предназначены для других целей (дыхания, пищеварения, обоняния). Но потом у этих органов возникли вторичные (речевые) функции.</text>
+		</slide>
+		<slide index="7" title="В речевом аппарате 3 зоны" titleNormalized="в речевом аппарате 3 зоны" src="slide8.swf" size="57462" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>В речевом аппарате 3 зоны
+Речевой аппарат
+органы ниже гортани
+гортань
+органы выше гортани</text>
+		</slide>
+		<slide index="8" title="1. Органы ниже гортани" titleNormalized="1. органы ниже гортани" src="slide9.swf" size="42719" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1. Органы ниже гортани
+Речевой аппарат
+Это органы дыхания.
+Задача – подать под давлением воздушную струю вверх. 
+</text>
+		</slide>
+		<slide index="9" title="В большинстве языков мира звуки произносятся на выдохе" titleNormalized="в большинстве языков мира звуки произносятся на выдохе" src="slide10.swf" size="369020" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2b9b51d8.spr0_54300531" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2b9b51d8.spr2_54300531" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_2b9b6558.spr0_54301342" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2b9b6558.spr2_54301342" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>В большинстве языков мира звуки произносятся на выдохе
+Речевой аппарат
+Видео с сайта http://australianlinguistics.com
+Произношение на выдохе
+Произношение на вдохе
+Нажмите на видео, чтобы сравнить</text>
+		</slide>
+		<slide index="10" title="Но в некоторых языках струя воздуха иногда образуется прямо в ротовой полости" titleNormalized="но в некоторых языках струя воздуха иногда образуется прямо в ротовой полости" src="slide11.swf" size="434297" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_2b9b7158.spr0_54302325" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2b9b7158.spr2_54302325" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_2b9b7ad8.spr0_54302871" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2b9b7ad8.spr2_54302871" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video4" videoClipId="ispring.resources_2b9b74d8.spr0_54303838" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2b9b74d8.spr2_54303838" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Но в некоторых языках струя воздуха иногда образуется прямо в ротовой полости 
+Речевой аппарат
+Видео с сайта http://australianlinguistics.com
+Нажмите на видео, чтобы посмотреть, как образуются щелкающие звуки</text>
+		</slide>
+		<slide index="11" title="Miriam Makeba «Click Song» (видео)" titleNormalized="miriam makeba «click song» (видео)" src="slide12.swf" size="368585" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_2b9b8858.spr0_54314056" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2b9b8858.spr2_54314056" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Miriam Makeba «Click Song» (видео)
+Речевой аппарат
+Подробная информация о песне здесь (англ.). Вы можете послушать еще одну песню с такими звуками.
+Цоканье, которое вы услышите в песне, – это звуки речи, а не звуки музыкальных инструментов типа кастаньет.</text>
+		</slide>
+		<slide index="12" title="2. Гортань" titleNormalized="2. гортань" src="slide13.swf" size="65228" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2. Гортань
+Главная задача – создать голос (тон).
+Голос создается при колебании голосовых связок. 
+Вибрацию голосовых связок можно почувствовать, если положить руку на гортань и произнести, к примеру, звук [a]. 
+
+Речевой аппарат</text>
+		</slide>
+		<slide index="13" title="Работа голосовых связок вокалиста группы «Aerosmith» (видео)" titleNormalized="работа голосовых связок вокалиста группы «aerosmith» (видео)" src="slide14.swf" size="525700" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_198605e0.spr0_54348501" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_198605e0.spr2_54348501" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Работа голосовых связок вокалиста группы «Aerosmith» (видео)
+Речевой аппарат
+Вы можете скачать полную версию фильма в русском переводе или посмотреть фильм на YouTube.</text>
+		</slide>
+		<quiz index="14" title="" titleNormalized="" src="quiz1.swf" size="994272" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset14" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="15" title="Гортанные звуки" titleNormalized="гортанные звуки" src="slide16.swf" size="151775" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_19862960.spr0_54359983" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19862960.spr2_54359983" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Гортанные звуки
+В гортани могут образовываться особые звуки (см. видео). Гортанные звуки встречаются в арабском, иврите и других языках.
+В русском языке есть пример гортанной смычки. Ее можно услышать в ответе не-а между не и а (сравните с произношением слов не Аня).
+
+
+Речевой аппарат
+Видео с сайта http://australianlinguistics.com</text>
+		</slide>
+		<slide index="16" title="3. Органы выше гортани" titleNormalized="3. органы выше гортани" src="slide17.swf" size="52407" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>3. Органы выше гортани
+Главная задача – cформировать различия в звуках.
+
+Речевой аппарат
+Речевой аппарат</text>
+		</slide>
+		<slide index="17" title="Надгортанник" titleNormalized="надгортанник" src="slide18.swf" size="68605" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Надгортанник
+В полости глотки сходятся два канала: дыхательный и пищеварительный. 
+Во время приема пищи надгортанник прикрывает вход в дыхательный канал. 
+
+
+Речевой аппарат</text>
+		</slide>
+		<slide index="18" title="Увула (нёбный язычок)" titleNormalized="увула (нёбный язычок)" src="slide19.swf" size="33466" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Увула (нёбный язычок)
+Из полости глотки у воздушной струи есть два выхода наружу: через нос и через рот. 
+Путь струи воздуха зависит от положения увулы (язычка в конце мягкого нёба): 
+если увула опущена, воздух идет в носовую полость и образуются носовые звуки (см. [m]); 
+если увула поднята, воздух идет только в ротовую полость и образуются неносовые (ротовые) звуки (см. [b]). 
+
+Речевой аппарат
+Речевой аппарат
+неносовой [b]
+носовой [m]</text>
+		</slide>
+		<slide index="19" title="Увулярное [r]" titleNormalized="увулярное [r]" src="slide20.swf" size="26200" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Увулярное [r]
+В некоторых языках (французском, немецком и др.) есть увулярные звуки. 
+Например, при произнесении французского («картавого») R увула вибрирует, а между увулой и языком образуется щель. 
+Речевой аппарат</text>
+		</slide>
+		<slide index="20" title="Качества звука определяются конфигурацией различных органов в ротовой полости" titleNormalized="качества звука определяются конфигурацией различных органов в ротовой полости" src="slide21.swf" size="41950" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Качества звука определяются конфигурацией различных органов в ротовой полости 
+Активные органы (совершают движения): губы, язык.
+Пассивные органы (служат опорой для активных органов): зубы, альвеолы, твердое нёбо.
+Речевой аппарат</text>
+		</slide>
+		<slide index="21" title="Посмотрите, как образуются разные звуки английского языка" titleNormalized="посмотрите, как образуются разные звуки английского языка" src="slide22.swf" size="142629" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_2ae37fb8.spr0_54363228" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2ae37fb8.spr2_54363228" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Посмотрите, как образуются разные звуки английского языка
+Речевой аппарат
+Видео с сайта http://soundsofspeech.uiowa.edu. На сайте представлен английский, немецкий и испанский языки.</text>
+		</slide>
+		<quiz index="22" title="" titleNormalized="" src="quiz2.swf" size="995135" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset22" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="1461" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификации гласных
+
+Классификации согласных
+Артикуляционные классификации звуков</text>
+		</slide>
+		<slide index="24" title="Во всех языках мира есть гласные и согласные звуки" titleNormalized="во всех языках мира есть гласные и согласные звуки" src="slide25.swf" size="2000" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Во всех языках мира есть гласные и согласные звуки
+Гласные
+Струя воздуха, идущая из легких, не встречает препятствия в ротовой полости.
+
+Согласные
+Струя воздуха встречает в ротовой полости препятствия. 
+Артикуляционные классификации звуков</text>
+		</slide>
+		<slide index="25" title="Признаки основной артикуляции гласных звуков" titleNormalized="признаки основной артикуляции гласных звуков" src="slide26.swf" size="2267" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Признаки основной артикуляции гласных звуков 
+Подъем
+движение языка по вертикали (верхний, средний, нижний)
+
+
+Ряд
+движение языка по горизонтали (передний, средний, задний)
+
+
+Артикуляционные классификации гласных
+Встречаются и другие термины: не верхний, а высокий и т.д. Пользуйтесь теми, которые вам больше нравятся.</text>
+		</slide>
+		<slide index="26" title="Посмотрите видео, чтобы увидеть как образуются звуки" titleNormalized="посмотрите видео, чтобы увидеть как образуются звуки" src="slide27.swf" size="123063" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_3425ebf0.spr0_54374959" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_3425ebf0.spr2_54374959" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video10" videoClipId="ispring.resources_3425f3f0.spr0_54375646" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_3425f3f0.spr2_54375646" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Посмотрите видео, чтобы увидеть как образуются звуки
+Артикуляционные классификации гласных
+
+Видео с сайта http://soundsofspeech.uiowa.edu. Посмотрите, как образуются другие звуки. 
+Гласные переднего ряда
+Гласные заднего ряда</text>
+		</slide>
+		<slide index="27" title="Классификация основных гласных звуков русского языка" titleNormalized="классификация основных гласных звуков русского языка" src="slide28.swf" size="16491" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Классификация основных гласных звуков русского языка
+Артикуляционные классификации гласных
+
+Здесь и далее 
+для обозначения 
+русских и белорусских звуков используются
+ латинские символы:
+[y] обозначает [ы], 
+[е] – [э], [u] – [y]…</text>
+		</slide>
+		<slide index="28" title="Количество рядов и подъемов зависит от языка" titleNormalized="количество рядов и подъемов зависит от языка" src="slide29.swf" size="14443" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Количество рядов и подъемов зависит от языка
+Артикуляционные классификации гласных
+
+Чем больше в языке гласных, тем более детальная классификация
+Русский язык
+Английский язык</text>
+		</slide>
+		<slide index="29" title="Дополнительные артикуляционные признаки гласных" titleNormalized="дополнительные артикуляционные признаки гласных" src="slide30.swf" size="83534" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29">
+			<sounds/>
+			<videos>
+				<video id="video11" videoClipId="ispring.resources_37291738.spr0_54381917" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_37291738.spr2_54381917" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Дополнительные артикуляционные признаки гласных
+Лабиализация = огубленность (активное участие губ в артикуляции). Примеры звуков: [u], [o].
+Назализация = носовой характер. Такие звуки встречаются в польском, французском и других языках (см. видео).
+
+Артикуляционные классификации гласных
+</text>
+		</slide>
+		<slide index="30" title="В некоторых языках есть гласные звуки, состоящие из двух или трех элементов" titleNormalized="в некоторых языках есть гласные звуки, состоящие из двух или трех элементов" src="slide31.swf" size="142591" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30">
+			<sounds/>
+			<videos>
+				<video id="video12" videoClipId="ispring.resources_37293538.spr0_54382946" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_37293538.spr2_54382946" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>В некоторых языках есть гласные звуки, состоящие из двух или трех элементов
+Дифтонги – два элемента.
+Трифтонги – три элемента.
+При произнесении дифтонгов происходит постепенный переход от одной конфигурации органов к другой (см. видео). Дифтонги и трифтонги образуют один слог.
+Артикуляционные классификации гласных
+
+Видео с сайта http://soundsofspeech.uiowa.edu.</text>
+		</slide>
+		<quiz index="31" title="" titleNormalized="" src="quiz3.swf" size="998663" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset31" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="32" title="Признаки основной артикуляции согласных звуков" titleNormalized="признаки основной артикуляции согласных звуков" src="slide33.swf" size="2468" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Признаки основной артикуляции согласных звуков
+Место образования
+Где образуется преграда на пути струи воздуха?
+Примеры:
+между передней частью языка и зубами, 
+между губами.
+Способ образования
+Как преодолевается преграда на пути струи воздуха?
+Примеры:
+органы соприкасаются (образуется смычка), и струя воздуха очень быстро разрывает эту смычку;
+один орган приближается к другому (образуется щель), и воздух проходит через щель с шумом.
+Артикуляционные классификации согласных
+</text>
+		</slide>
+		<slide index="33" title="Основные типы звуков по месту образования" titleNormalized="основные типы звуков по месту образования" src="slide34.swf" size="180878" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Основные типы звуков по месту образования
+С полной таблицей согласных звуков вы можете ознакомиться в учебниках по фонетике или по введению в языкознание. Например, в книге А. А. Реформатского классификации согласных посвящен § 30. 
+Артикуляционные классификации согласных
+</text>
+		</slide>
+		<slide index="34" title="Переднеязычные звуки" titleNormalized="переднеязычные звуки" src="slide35.swf" size="128187" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Переднеязычные звуки
+Кончик языка может прикасаться или приближаться к зубам, альвеолам, переднему нёбу. Это дает разные звуки.
+Артикуляционные классификации согласных
+
+ʐ - это символ международного фонетического алфавита (IPА).</text>
+		</slide>
+		<quiz index="35" title="" titleNormalized="" src="quiz4.swf" size="998569" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset35" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="36" title="Основные типы звуков по способу образования" titleNormalized="основные типы звуков по способу образования" src="slide37.swf" size="141575" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Основные типы звуков по способу образования
+Учтите: классификации в разных источниках различаются. Например, звук [l] некоторые относят к смычным, а некоторые – к щелевым. На самом деле при произнесении этого звука есть и смычка, и щель. Подобные дискуссии вызывает и звук [r].
+Артикуляционные классификации согласных
+</text>
+		</slide>
+		<slide index="37" title="Одно место (переднеязычные, альвеолярные) – разный способ" titleNormalized="одно место (переднеязычные, альвеолярные) – разный способ" src="slide38.swf" size="252845" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37">
+			<sounds/>
+			<videos>
+				<video id="video13" videoClipId="ispring.resources_34baefc0.spr0_54409264" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34baefc0.spr2_54409264" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video14" videoClipId="ispring.resources_34baf8c0.spr0_54409888" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34baf8c0.spr2_54409888" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Одно место (переднеязычные, альвеолярные) – разный способ
+Артикуляционные классификации согласных
+
+Видео с сайта http://soundsofspeech.uiowa.edu. 
+англ. [d] (взрывной)
+англ. [z] (щелевой)
+Не путайте место и способ образования!</text>
+		</slide>
+		<slide index="38" title="Один способ (взрывные) – разное место" titleNormalized="один способ (взрывные) – разное место" src="slide39.swf" size="242031" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38">
+			<sounds/>
+			<videos>
+				<video id="video15" videoClipId="ispring.resources_34ddb3d8.spr0_54410527" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34ddb3d8.spr2_54410527" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video16" videoClipId="ispring.resources_34ddba58.spr0_54411073" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34ddba58.spr2_54411073" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Один способ (взрывные) – разное место
+Артикуляционные классификации согласных
+
+Видео с сайта http://soundsofspeech.uiowa.edu. 
+англ. [d] (переднеязычный)
+англ. [g] (заднеязычный)
+Не путайте место и способ образования!</text>
+		</slide>
+		<slide index="39" title="Аффрикаты" titleNormalized="аффрикаты" src="slide40.swf" size="6761" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Аффрикаты
+Аффрикаты – звуки сложной артикуляции.
+Это сочетание элементов двух звуков (смычного и фрикативного).
+Например, русский звук [t͡s ] ([ц]) – это [t + s]. В белорусском языке есть аффрикаты, которых нет в русском, примеры: [dʒ] (гляджу), [dzʲ](дзядзька).
+Артикуляционные классификации согласных
+
+Напоминаю: необычные символы взяты международного фонетического алфавита (IPА).</text>
+		</slide>
+		<slide index="40" title="Палатализация" titleNormalized="палатализация" src="slide41.swf" size="20458" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset40">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Палатализация
+К основной артикуляции может добавляться дополнительная. 
+При палатализации (смягчении) звуков средняя часть языка приподнимается вверх.
+Палатализация очень важна для русского и белорусского языков.
+
+Артикуляционные классификации согласных
+
+[b’]
+[b]</text>
+		</slide>
+		<quiz index="41" title="" titleNormalized="" src="quiz5.swf" size="999295" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset41" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="42" title="Как описать артикуляцию звука?" titleNormalized="как описать артикуляцию звука?" src="slide43.swf" size="134698" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset42">
+			<sounds/>
+			<videos>
+				<video id="video17" videoClipId="ispring.resources_37887bb0.spr0_54422664" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_37887bb0.spr2_54422664" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Как описать артикуляцию звука?
+голосовые связки дрожат – не глухой звук;
+увула поднята – ротовой (неносовой) звук;
+губы смыкаются – губно-губной звук;
+смычка разрывается под воздействием воздушной струи – взрывной звук.
+
+Описание артикуляции звуков
+Видео с сайта http://soundsofspeech.uiowa.edu. 
+Посмотрите видео, на котором показано образование звука [b] (барабан).</text>
+		</slide>
+		<quiz index="43" title="" titleNormalized="" src="quiz6.swf" size="995616" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset43" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="44" title="Вы прошли тему «Артикуляционный аспект звуков речи»!" titleNormalized="вы прошли тему «артикуляционный аспект звуков речи»!" src="slide45.swf" size="13685" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset44">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Вы прошли тему «Артикуляционный аспект звуков речи»!
+Конец</text>
+		</slide>
+	</slides>
+</presentation>

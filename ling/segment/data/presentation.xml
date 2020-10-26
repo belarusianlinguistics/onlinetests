@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<presentation title="Фонетическое членение речи - Copy" width="1000.0000000" height="750.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{AFA23B82-474A-421D-AE5F-E495BD188E58}">
+	<presenters/>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="27630" duration="2299"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="45185" duration="3762"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="false"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Фонетическое членение речи" titleNormalized="фонетическое членение речи" src="slide1.swf" size="1403" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Фонетическое членение речи
+Введение в языкознание
+Минский государственный лингвистический университет
+
+(с) О. С. Горицкая, 2015</text>
+		</slide>
+		<slide index="1" title="Сегментные и суперсегментные фонетические единицы" titleNormalized="сегментные и суперсегментные фонетические единицы" src="slide2.swf" size="13311" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds>
+				<sound id="sound0" soundAssetId="sndAsset0" hasTriggerEffects="1" slides="1" repeat="1" volume="0.8000000" effect="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Сегментные и суперсегментные фонетические единицы
+Сегментные единицы – цепочки звуков различной длины: звуки, слоги и т.д.
+Суперсегментные или супрасегментные единицы (просодия) накладываются на сегментные (лат. super, supra означает ‘над’): 
+словесное ударение и слоговой тон,
+интонация.
+
+Фонетическое членение речи
+Здесь и далее приводится «школьная» транскрипция, которая не учитывает многих нюансов произношения. Вообще, кажется, что в слове счастье (во всяком случае в этой записи) последний звук ближе к э, но мы по традиции передаем этот звук как и.
+сегментные единицы
+суперсегментные единицы (интонация)</text>
+		</slide>
+		<slide index="2" title="Поток речи можно разделить на различные сегментные единицы" titleNormalized="поток речи можно разделить на различные сегментные единицы" src="slide3.swf" size="77629" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Поток речи можно разделить на различные сегментные единицы
+Фразы делятся на фонетические слова, фонетические слова – на слоги, слоги – на звуки. 
+
+Фонетическое членение речи
+
+Это самая простая классификация фонетических единиц, но существуют и более подробные. Кроме того, в учебниках и научных работах встречаются различные термины. Вместо термина «фонетическое слово» могут использоваться термины «такт», «ритмическая группа» и т.п.</text>
+		</slide>
+		<slide index="3" title="Рассмотрим в качестве примера следующую запись" titleNormalized="рассмотрим в качестве примера следующую запись" src="slide4.swf" size="323860" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_18965f80.spr0_40728319" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18965f80.spr2_40728319" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Рассмотрим в качестве примера следующую запись
+«Школьная» транскрипция потока речи:
+пав’э́р’ мн’э́ ка́рлсан н’и_ф_п’ирага́х ш’а́с’т’йи ты́ што́ с_ума́ сашо́л а_ф_ч’о́м_жы йиш’о́
+
+Фонетическое членение речи
+
+См. видео.</text>
+		</slide>
+		<slide index="4" title="1. Фраза – фрагмент речи, объединенный интонацией" titleNormalized="1. фраза – фрагмент речи, объединенный интонацией" src="slide5.swf" size="19967" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1. Фраза – фрагмент речи, объединенный интонацией
+Фразы обычно разделяются паузами. 
+В данном отрезке 4 фразы:
+пав’э́р’ мн’э́ ка́рлсан //
+н’и_ф_п’ирага́х ш’а́с’т’йи //
+ты́ што́ с_ума́ сашо́л //
+а_ф_ч’о́м_жы йиш’о́ //
+
+Фонетическое членение речи
+
+1
+2
+3
+4</text>
+		</slide>
+		<slide index="5" title="2. Фонетическое слово – фрагмент фразы, объединенный ударением" titleNormalized="2. фонетическое слово – фрагмент фразы, объединенный ударением" src="slide6.swf" size="16972" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2. Фонетическое слово – фрагмент фразы, объединенный ударением 
+Количество фонетических слов не всегда совпадает с количеством «графических» слов.
+Во фразе [ты́ што́ с_ума́ сашо́л] 4 фонетических слова, а во фразе [а_ф_ч’о́м_жы йиш’о́] – 2.
+Клитики – безударные слова.
+Проклитики стоят перед ударным словом. 
+Энклитики стоят после ударного слова.
+Иногда слово окружено клитиками. Пример: а в чем же [а_ф_ч’о́м_жы]. А и в – это проклитики, а же – энклитика.
+Фонетическое членение речи
+
+Термины проклитики и энклитики могут иметь и другие значения – ‘любые предударные / заударные слоги’.</text>
+		</slide>
+		<slide index="6" title="3. Слог – часть фонетического слова, объединенная слогообразующим звуком" titleNormalized="3. слог – часть фонетического слова, объединенная слогообразующим звуком" src="slide7.swf" size="184625" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds>
+				<sound id="sound1" soundAssetId="sndAsset1" hasTriggerEffects="1" slides="1" repeat="1" volume="0.8000000" effect="0"/>
+			</sounds>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_2daa2260.spr0_40740300" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2daa2260.spr2_40740300" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>3. Слог – часть фонетического слова, объединенная слогообразующим звуком
+Во всех языках гласные звуки (есть только тон) являются слогообразующими: поверь [па-в’э́р’].
+В некоторых языках слогообразующую функцию выполняют сонорные согласные (тон преобладает над шумом): [r], [l], [m], [n] и др. 
+Так, в чешском языке есть скороговорка, в которой нет ни одной гласной: Strč prst skrz krk ‘просунь палец сквозь горло’.
+
+Фонетическое членение речи
+
+Тон и шум подробно рассматриваются в теме «Акустический аспект звуков речи».</text>
+		</slide>
+		<slide index="7" title="Слогораздел – граница между слогами" titleNormalized="слогораздел – граница между слогами" src="slide8.swf" size="39741" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Слогораздел – граница между слогами
+Существуют различные теории слога. Кроме того, принципы деления на слоги различаются по языкам. 
+В отечественном языкознании наиболее влиятельной является сонорная теория слога. Согласно этой теории, в русском языке слогораздел проходит между наиболее контрастными звуками. 
+Чтобы разделить слово на слоги надо указать звучность каждого звука:
+Ко-шка – 14-114 (первый слог заканчивается на гласный, т.к. между гласным и глухим согласным максимальный контраст). 
+Кор-ка – 143-14 (сонорный звук ближе по звучности к гласному и поэтому относится к первому слогу).
+
+
+
+Фонетическое членение речи
+</text>
+		</slide>
+		<quiz index="8" title="" titleNormalized="" src="quiz1.swf" size="1024979" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset8" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="9" title="Базовая классификация слогов по конечному звуку" titleNormalized="базовая классификация слогов по конечному звуку" src="slide10.swf" size="74018" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Базовая классификация слогов по конечному звуку
+В словоформе пирог [п’и-ро́к] два слога – открытый (п’и) и закрытый (рок).
+Слоги можно классифицировать и на других основаниях. Например, в слове пирог первый слог безударный, а второй – ударный.
+Фонетическое членение речи
+</text>
+		</slide>
+		<slide index="10" title="Различия в языках" titleNormalized="различия в языках" src="slide11.swf" size="7534" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Различия в языках
+В привычных для нас языках (русском, немецком или английском) слоги могут быть очень разнообразными. В слоговы́х языках (например, в японском, китайском или вьетнамском) существуют ограничения на комбинацию звуков в слоге. В таких языках основная фонологическая единица – слог (силлабема), а не фонема.
+В качестве примера рассмотрим японский язык, где много заимствований из европейских языков. Сравните, как произносятся заимствованные слова и их «оригиналы».
+Фонетическое членение речи
+
+Принципы фонетического членения речи, которые обсуждаются в этих материалах, разработаны для языков типа русского, английского или немецкого. Подробнее о слоговых языках можно почитать в «Лингвистическом энциклопедическом словаре».</text>
+		</slide>
+		<slide index="11" title="4. ­Звук – часть слога, которая произносится за одну артикуляцию" titleNormalized="4. ­звук – часть слога, которая произносится за одну артикуляцию" src="slide12.swf" size="22197" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>4. ­Звук – часть слога, которая произносится за одну артикуляцию
+Звук – это минимальный сегмент в потоке речи.
+Обратите внимание: то, что является одним звуком в каком-либо языке, может соответствовать нескольким звукам в другом. Например, в белорусском слове джынсы на один звук меньше, чем в русском слове джинсы, т.к. в белорусском языке есть аффриката [dʒ]. В английском языке, откуда слово jeans было заимствовано в русский и белорусский, первый звук – это тоже аффриката.
+Кроме того, надо помнить, что в потоке речи наблюдается коартикуляция: звуки взаимодействуют друг с другом.
+
+Фонетическое членение речи
+
+Подробнее о коартикуляции см. в теме «Изменения звуков речи».</text>
+		</slide>
+		<slide index="12" title="Обобщение" titleNormalized="обобщение" src="slide13.swf" size="4105" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Обобщение
+Вспомним основные сегменты потока речи и средства, которые объединяют элементы в составе этих сегментов.
+Фонетическое членение речи
+</text>
+		</slide>
+		<quiz index="13" title="" titleNormalized="" src="quiz2.swf" size="1002860" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset13" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="14" title="Вы прошли тему «Фонетическое членение речи»!" titleNormalized="вы прошли тему «фонетическое членение речи»!" src="slide15.swf" size="15182" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Вы прошли тему «Фонетическое членение речи»!
+Конец</text>
+		</slide>
+	</slides>
+</presentation>

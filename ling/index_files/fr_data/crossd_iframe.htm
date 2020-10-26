@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251"></head><body>
+        <script type="text/javascript">
+            (function() {
+                var MessageHandler = function() {
+                    var whitelist = ['uuid', 'flash_uuid'],
+                        DOMAIN = '.facetz.net';
+
+                    var verifyKey = function(key) {
+                        var len = whitelist.length,
+                            i = 0;
+
+                        key = key.toLowerCase();
+                        while (i < len) {
+                            if (key.match(new RegExp(whitelist[i]))) {
+                                return true;
+                            }
+                            i++;
+                        }
+
+                        return false;
+                    };
+
+                    var getData = function(name) {
+                        var matches;
+                        matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+                        return matches ? decodeURIComponent(matches[1]) : false;
+                    };
+
+                    var setData = function(name, value) {
+                        var updatedCookie;
+                        value = encodeURIComponent(value);
+                        updatedCookie = name + '=' + value + '; domain=' + DOMAIN;
+                        document.cookie = updatedCookie;
+                    };
+                    
+                    var deleteData = function(name) {
+                        var date = new Date,
+                            updatedCookie;
+                        date.setDate(date.getDate() - 1);
+                        updatedCookie = name + '=; expires=' + date.toUTCString();
+                        document.cookie = updatedCookie;
+                    }
+
+                    return {
+                        handleRequest: function(event) {
+                            var request = JSON.parse(event.data);
+                            if (verifyKey(request.key)) {
+                                if (request.type === 'get') {
+                                    event.source.postMessage(JSON.stringify({id: request.id, key: request.key, value: getData(request.key)}), event.origin);
+                                } else if (request.type === 'set') {
+                                    setData(request.key, request.value);
+                                    event.source.postMessage(JSON.stringify({id: request.id, key: request.key, value: request.value}), event.origin);
+                                }
+                                deleteData('carousel_next_redirect_num');
+                                deleteData('carousele_last_redirect');
+                            }
+                        }
+                    };
+                }();
+
+                if (window.addEventListener) {
+                    window.addEventListener('message', MessageHandler.handleRequest, false);
+                } else if (window.attachEvent) {
+                    window.attachEvent('onmessage', MessageHandler.handleRequest);
+                }
+            })();
+        </script>
+    
+</body></html>

@@ -1,0 +1,962 @@
+<?xml version="1.0"?>
+<presentation title="Резюме" width="1000.0000000" height="750.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{43BCF043-F8C9-4A17-B6F0-6429329591B7}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="false"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Резюме" titleNormalized="резюме" src="slide1.swf" size="260098" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Резюме
+(с) О. С. Горицкая, 2016
+Русский язык для профессиональных целей
+Минский государственный лингвистический университет</text>
+		</slide>
+		<slide index="1" title="Оглавление" titleNormalized="оглавление" src="slide2.swf" size="32257" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Объем
+Форматирование
+Формат и название файла
+
+Оглавление
+ФИО, контактная информация
+Название должности (цель)
+Компетенции
+Зарплата
+Опыт работы
+Образование
+Дополнительная информация
+Структура
+Язык
+
+Оформление
+Сопроводительное письмо
+С. 33–34
+С. 27–32
+С. 20–26
+С. 4–19
+С. 3
+Выбор языка
+Стиль
+Грамотность
+Введение
+Нажмите на цифру, чтобы перейти к какому-то разделу, или читайте все страницы подряд.</text>
+		</slide>
+		<slide index="2" title="Введение" titleNormalized="введение" src="slide3.swf" size="38478" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Введение
+На вопрос «Как составить резюме?» Google отвечает сотнями тысяч статей. Какой из них верить?
+К сожалению, идеального рецепта резюме не существует. Резюме различаются в зависимости от рода деятельности, опыта работы, личности кандидатов и многого другого.
+В этих материалах систематизированы основные сведения, которые помогут вам разобраться в том, как написать резюме. Акцент сделан на профессии переводчика.
+Здесь намеренно не приводятся шаблонные фразы для резюме. Хорошее резюме нельзя полностью скопировать. Можно проанализировать другие резюме и требования в вакансиях, подумать о своих достоинствах и достижениях – и написать такое резюме, которое позволит найти хорошую работу.</text>
+		</slide>
+		<slide index="3" title="Структура" titleNormalized="структура" src="slide4.swf" size="3029" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Структура
+ФИО, контактная информация
+Фотография
+Название должности (цель)
+Компетенции (профиль, навыки)
+Желаемая зарплата
+Опыт работы
+Образование
+Дополнительная информация (компьютерные навыки, личностные качества и др.)</text>
+		</slide>
+		<slide index="4" title="Резюме – это текст, в котором человек характеризует себя как специалиста" titleNormalized="резюме – это текст, в котором человек характеризует себя как специалиста" src="slide5.swf" size="19119" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Резюме – это текст, в котором человек характеризует себя как специалиста
+В резюме должны быть только факты, важные для работодателя: опыт работы, профессиональные навыки, образование и т.д.
+Хорошее резюме вызывает у специалиста по кадрам / работодателя желание встретиться с кандидатом на собеседовании или отправить ему тестовое задание.
+Резюме должно быть правдивым, легким для восприятия, четким, аккуратным, информативным и кратким.
+
+ 
+
+Обратите внимание: слово резюме не пишется в заголовке резюме!</text>
+		</slide>
+		<slide index="5" title="Структура резюме" titleNormalized="структура резюме" src="slide6.swf" size="75794" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Структура резюме
+Мнения специалистов о том, какой должна быть структура резюме, различаются.
+Вы можете выбрать ту структуру, которая кажется вам наиболее подходящей.
+На этом слайде вы видите минимальный набор компонентов, которые должны быть в резюме.</text>
+		</slide>
+		<slide index="6" title="ФИО, контактная информация" titleNormalized="фио, контактная информация" src="slide7.swf" size="10637" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ФИО, контактная информация
+Контактная информация: 
+телефоны (с кодом, можно также указать оператора), 
+имейл, 
+скайп (по желанию) и др.
+Указывайте имейл и имя в скайпе, которые выглядят официально.
+Плохо: busechka2007@mail.ru.
+Хорошо: anna.alekseeva@gmail.com. 
+ 
+
+
+Социальные сети
+Ссылки на страницы в социальных сетях лучше не указывать. Работодатель / его представитель сам найдет вас, если ему будет интересно.
+
+
+Фамилия, имя, отчество.
+Год или дата рождения (не всегда указывается, но специалист по подбору кадров все равно обычно высчитывает возраст кандидата по образованию и т.п.).
+Город проживания (если вы нашли вакансию в другом городе и готовы переехать, укажите это).
+</text>
+		</slide>
+		<slide index="7" title="Подумайте о том, нужна ли фотография в резюме" titleNormalized="подумайте о том, нужна ли фотография в резюме" src="slide8.swf" size="8746" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Подумайте о том, нужна ли фотография в резюме
+За
+Фотографии делают резюме более индивидуальным. 
+Кроме того, для некоторых видов деятельности внешний вид специалиста важен.
+
+Против
+Далеко не у всех есть фотографии, которые подходят для резюме. Неуместная фотография может испортить впечатление от вашего текста. 
+Да и не всегда работодателю интересно, как выглядит человек (например, внештатный переводчик).</text>
+		</slide>
+		<slide index="8" title="Примеры фотографий" titleNormalized="примеры фотографий" src="slide9.swf" size="28050" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Примеры фотографий
+Неудачные
+Многие фотографии подходят только для страницы в социальной сети или домашнего альбома.
+Удачные
+Фотография должна быть хорошего качества, желательно на однотонном фоне. Человек на ней должен выглядеть так, как на работе.
+Ссылка на презентацию с плохими фотографиями.</text>
+		</slide>
+		<slide index="9" title="Название должности (цель)" titleNormalized="название должности (цель)" src="slide10.swf" size="3600" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Название должности (цель)
+Советы: 
+Пишите ту должность, которую видите в вакансии или на сайте организации, куда хотите устроиться.
+Переводчикам: не забудьте написать языки, с которыми вы работаете.
+
+Плохой пример (указаны профессии, не связанные между собой):
+Рассмотрю различные предложения, связанные с реализацией и производством мебели, или по моей специальности – зубной техник.
+
+Плохой пример (нет конкретики):
+ЦЕЛЬ: Получить интересную работу, возможность профессионального роста в надежной, успешно работающей компании (настоящий профиль работы не обязателен).
+
+
+Все плохие примеры в этих материалах взяты из реальных резюме.</text>
+		</slide>
+		<slide index="10" title="Компетенции (навыки, профиль)" titleNormalized="компетенции (навыки, профиль)" src="slide11.swf" size="4383" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Компетенции (навыки, профиль)
+Вы можете подробнее рассказать о своих профессиональных навыках в разделе «Компетенции». 
+Этот раздел важен в первую очередь для специалистов с большим опытом работы. Начинающие специалисты могут объединить этот раздел с «Целью».
+
+Обратите внимание:
+Переводчики пишут, какими иностранными языками владеют, в верхней части резюме.
+Другие специалисты приводят эти сведения в разделе «Дополнительная информация».
+
+Компетенции переводчиков: 
+1) направления перевода (иногда специалист может переводить с какого-то языка, но не на этот язык);
+2) типы перевода: устный (последовательный, синхронный), письменный;
+3) тематика переводов (экономика, IT, художественная литература и т.п.);
+4) норма / объем перевода в день (сколько страниц в день вы можете перевести).
+
+Если у вас есть портфолио в интернете, можете в этом разделе дать на него ссылку.</text>
+		</slide>
+		<slide index="11" title="Указывать ли желаемую зарплату?" titleNormalized="указывать ли желаемую зарплату?" src="slide12.swf" size="9970" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Указывать ли желаемую зарплату?
+За 
+Вы экономите время, свое и работодателя: если он не может предложить ту зарплату, на которую вы рассчитываете, он не будет с вами связываться.
+
+Против
+Часто зарплата зависит от сложности работы и других факторов. Детали лучше обсудить на собеседовании или – в случае удаленной работы – по переписке.
+Многое зависит от вакансии. 
+Руководители среднего и высшего звена обычно обсуждают зарплату только на собеседовании.
+Удаленные письменные переводчики часто указывают минимальные расценки за страницу в резюме или в сопроводительном письме.
+</text>
+		</slide>
+		<slide index="12" title="Опыт работы" titleNormalized="опыт работы" src="slide13.swf" size="10610" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Опыт работы
+Когда? 
+Места работы идут в обратной хронологической последовательности: последнее место работы указывается сверху.
+Где? 
+Не забудьте написать название фирмы (по возможности без сокращений). Если фирма неизвестная, то можно отметить, чем она занимается.
+Фрилансеры пишут, что занимались фрилансом.
+Кем? 
+Должность можно указывать и перед местом работы.
+Что делали? 
+Кратко перечислите свои обязанности (от наиболее важных задач к наименее важным).
+Обратите внимание, какие обязанности указаны в вакансии. Если вы делали что-то похожее, напишите это.
+Чего достигли? 
+Это важный раздел, если достижения были. Можно указать победы в профессиональных (!) конкурсах и т.п. Иногда раздел «Достижения» дается отдельным пунктом в резюме.
+
+
+Упоминайте только опыт, который имеет отношение к вакансии.</text>
+		</slide>
+		<slide index="13" title="Что делать, если нет опыта работы?" titleNormalized="что делать, если нет опыта работы?" src="slide14.swf" size="2278" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Что делать, если нет опыта работы?
+Укажите опыт, который вы получили без официального трудоустройства.
+Проходили ли вы практику? Где и когда? Что там делали? 
+Были ли вы волонтером? Где и когда? Чем занимались?
+Только не увлекайтесь. Подумайте, что имеет значение для той вакансии, на которую вы претендуете.
+
+</text>
+		</slide>
+		<slide index="14" title="Образование" titleNormalized="образование" src="slide15.swf" size="12255" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Образование
+Вначале указывается вуз (или вузы):
+Время обучения (информация обычно дается в обратной хронологической последовательности или в порядке значимости).
+Название вуза (не аббревиатурой). Обратите внимание на орфографию:
+Минский государственный лингвистический университет.
+Квалификация по диплому и специализация (для переводчиков обязательно указать языки).
+Иногда указывают средний балл, но это уместно лишь в том случае, если он был очень высоким.
+Не нужно указывать школы. Если специальность, полученная в колледже, совпадает с вузовской, информацию о колледже лучше опустить. Если в колледже вы получили другую квалификацию и она важна для вакансии, колледж стоит указать.
+Затем идет дополнительное образование: стажировки, курсы, в т.ч. онлайн (выберите то, что важно).
+
+Начинающие специалисты могут рассказать сначала об образовании, а потом об опыте работы.</text>
+		</slide>
+		<slide index="15" title="Дополнительная информация" titleNormalized="дополнительная информация" src="slide16.swf" size="28585" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Дополнительная информация
+Личностные качества
+Компьютерные навыки
+Наличие прав 
+и автомобиля
+Семейное положение
+Хобби и увлечения
+Эти пункты необязательно указывать в одной графе с заголовком «Дополнительная информация».
+Они могут идти самостоятельными блоками.</text>
+		</slide>
+		<slide index="16" title="Компьютерные навыки (владение компьютером)" titleNormalized="компьютерные навыки (владение компьютером)" src="slide17.swf" size="7186" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Компьютерные навыки (владение компьютером)
+Для переводчиков самое главное – это программы «памяти переводов» (translation memory): Trados, Memsource и др. 
+Если вы хотите заниматься письменными переводами, нужно научиться пользоваться этими программами.
+Можно дополнительно указать программы:
+для работы с текстом: Adobe Acrobat (не Reader), ABBYY FineReader;
+для работы с графикой (Adobe Photoshop, Illustrator и т.п.).
+для верстки: Adobe InDesign и т.д.
+Если вы умеете создавать сайты, тоже напишите это.
+В этом разделе указывайте только важные для вакансии программы. 
+Не перечисляйте все версии Windows, которые у вас были, или браузеры, которые вы знаете. 
+Можно указать, что вы владеете пакетом MS Office, но этим никого не удивишь. Хорошо, если в скобках будут не только Word и Powerpoint.</text>
+		</slide>
+		<slide index="17" title="Личностные (личные) качества" titleNormalized="личностные (личные) качества" src="slide18.swf" size="13522" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Личностные (личные) качества
+Скопированные откуда-то перечни типа инициативность, коммуникабельность, стрессоустойчивость и т.п. не очень информативны.
+Раздел с таким списком можно убрать из резюме.
+Рекомендуется подкреплять качество какими-то фактами.
+Пример:
+Инициативность: разработал и реализовал стратегию выхода отдела из кризиса, когда ушел руководитель1.
+Для разных профессий важны разные качества. Так, устный переводчик, в отличие от письменного, должен быть коммуникабельным.
+Подумайте, какие ваши качества значимы для вакансии.
+1Источник: 33 лайфхака для резюме, которые удвоят твою заработную плату.</text>
+		</slide>
+		<slide index="18" title="Спорные разделы" titleNormalized="спорные разделы" src="slide19.swf" size="28051" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Спорные разделы
+Семейное положение
+Этот раздел можно убрать, особенно если семейное положение не женат, не замужем, разведен(а). 
+Если есть дети, то это часто отмечают (с указанием возраста детей). 
+Хобби и увлечения
+Рассказ об увлечениях может сделать резюме более индивидуальным. Но кому-то ваши хобби интересны, а кому-то нет. Если хотите написать о своих увлечениях, указывайте те, которые связаны с профессией или с качествами, нужными для этого рода деятельности.
+Наличие прав и автомобиля
+Делайте такой раздел, если у вас есть права и/или автомобиль и если это имеет отношение к профессии.
+Например, для внештатного письменного переводчика это неважно. 
+</text>
+		</slide>
+		<slide index="19" title="Язык" titleNormalized="язык" src="slide20.swf" size="1854" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Язык
+Выбор языка
+Стиль
+Грамотность</text>
+		</slide>
+		<slide index="20" title="На каком языке переводчику писать резюме?" titleNormalized="на каком языке переводчику писать резюме?" src="slide21.swf" size="2147" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>На каком языке переводчику писать резюме?
+Если вы ищете работу в странах, где говорят на русском языке, пишите резюме на русском (если, конечно, в вакансии не написано, что нужно отправить резюме на другом языке).
+Часто переводчики хотят продемонстрировать свои знания и составляют резюме на иностранных языках. Но специалисты по кадрам могут не знать английский или другие иностранные языки.</text>
+		</slide>
+		<slide index="21" title="Избегайте канцелярита" titleNormalized="избегайте канцелярита" src="slide22.swf" size="36099" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Избегайте канцелярита
+Это – вытеснение глагола, то есть движения, действия, причастием, деепричастием, существительным (особенно отглагольным!), а значит – застойность, неподвижность. И из всех глагольных форм пристрастие к инфинитиву.
+Это – нагромождение существительных в косвенных падежах, чаще всего длинные цепи существительных в одном и том же падеже – родительном, так что уже нельзя понять, что к чему относится и о чем идет речь.
+Это – обилие иностранных слов там, где их вполне можно заменить словами русскими.
+Это – вытеснение активных оборотов пассивными, почти всегда более тяжелыми, громоздкими.
+Это – тяжелый, путаный строй фразы, невразумительность. Несчетные придаточные предложения, вдвойне тяжеловесные и неестественные в разговорной речи.
+Это – серость, однообразие, стертость, штамп. Убогий, скудный словарь: и автор и герои говорят одним и тем же сухим, казенным языком. Всегда, без всякой причины и нужды, предпочитают длинное слово – короткому, официальное или книжное – разговорному, сложное – простому, штамп – живому образу. 
+Короче говоря, канцелярит – это мертвечина.
+</text>
+		</slide>
+		<slide index="22" title="Главные советы" titleNormalized="главные советы" src="slide23.swf" size="190117" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_3bb0d6e0.spr0_6701958" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_3bb0d6e0.spr2_6701958" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Главные советы
+1. Резюме, которое состоит из одних штампов и общих слов, редко заинтересовывает работодателя.
+2. Постарайтесь найти баланс: резюме должно выглядеть официально и «по-человечески» одновременно.
+3. Используйте больше глаголов и меньше отглагольных существительных, причастий, деепричастий и т.п.
+4. Выбирайте совершенный вид, потому что он показывает результат: разработал(а), а не разрабатывал(а).
+Подробности см. в видео.
+
+Вы можете посмотреть видео «Как писать сопроводительные письма и резюме» по ссылке.</text>
+		</slide>
+		<slide index="23" title="Резюме должно быть абсолютно грамотным" titleNormalized="резюме должно быть абсолютно грамотным" src="slide24.swf" size="177147" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Резюме должно быть абсолютно грамотным
+Ласло Бок, вице-президент Google по персоналу, отмечает: 
+«Опечатки смертельны, потому что работодатели интерпретируют их как невнимание к деталям и как неспособность заботиться о качестве».
+А для переводчика знание русского языка – часть профессиональной компетенции.
+Пример требований к кандидатам взят с сайта бюро переводов.</text>
+		</slide>
+		<slide index="24" title="Пример из вакансии" titleNormalized="пример из вакансии" src="slide25.swf" size="255258" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Пример из вакансии</text>
+		</slide>
+		<slide index="25" title="Оформление" titleNormalized="оформление" src="slide26.swf" size="1927" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Оформление
+Объем
+Форматирование
+Формат и название файла</text>
+		</slide>
+		<slide index="26" title="Объем резюме – 1 или 2 страницы" titleNormalized="объем резюме – 1 или 2 страницы" src="slide27.swf" size="7336" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Объем резюме – 1 или 2 страницы
+2 страницы 
+
+для опытных специалистов
+
+1 страница 
+для людей с небольшим опытом работы
+
+Паскаль говорил: «Я пишу длинно потому, что у меня нет времени писать коротко». Краткость, которая сочетается с информативностью, – знак того, что вы серьезно отнеслись к написанию резюме.
+Если у вас остается небольшой фрагмент текста на последней (второй или третьей) странице, поработайте над форматированием: уменьшите шрифты, интервалы между строками и т.д.
+Обычно используется 10, 12 или 14 кегль шрифта.</text>
+		</slide>
+		<slide index="27" title="Аккуратно отформатируйте текст" titleNormalized="аккуратно отформатируйте текст" src="slide28.swf" size="56801" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Аккуратно отформатируйте текст 
+Можно использовать стандартное форматирование со списками или взять специальные шаблоны для резюме, например, из MS Word. 
+Для этого откройте меню «Файл» и нажмите на кнопку «Создать». В окне поиска напишите слово резюме.
+Лучше писать черным цветом на белом фоне.
+
+Если вас интересуют более оригинальные шаблоны, посмотрите специальные сервисы для создания резюме.
+Оформление резюме, а не строчка владею МS Word на уровне опытного пользователя показывает, знаете ли вы офисные программы.</text>
+		</slide>
+		<slide index="28" title="Не используйте в качестве резюме анкеты с сайтов для поиска работы" titleNormalized="не используйте в качестве резюме анкеты с сайтов для поиска работы" src="slide29.swf" size="2240" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Не используйте в качестве резюме анкеты с сайтов для поиска работы 
+Почему?
+Такие резюме выглядят шаблонно и показывают, что кандидат не хочет тратить время на оформление текста.
+В анкетах много лишней информации.
+Форматирование не всегда выглядит аккуратным.
+</text>
+		</slide>
+		<slide index="29" title="Мелкие детали важны" titleNormalized="мелкие детали важны" src="slide30.swf" size="2489" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Мелкие детали важны
+1. Поработайте над структурой резюме. Группируйте информацию.
+2. Выделяйте заголовки или другие важные фрагменты текста.
+3. Не путайте:
+Тире (–) ставятся между частями предложения.
+Дефисы (-) ставятся между частями сложных слов.
+4. Используйте везде одинаковые кавычки: в русском тексте – «ёлочки»: «…».
+</text>
+		</slide>
+		<slide index="30" title="Подумайте о формате файла" titleNormalized="подумайте о формате файла" src="slide31.swf" size="14339" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Подумайте о формате файла
+За: более современный, чем doc.
+Против: иногда возникают проблемы, если открыть файл в старых версиях MS Word (к примеру, пропадают пробелы).
+
+За: всегда выглядит так, как вы задумали.
+Против : специалисту по подбору кадров не так удобно вносить комментарии.
+
+За: самый распространенный формат.
+Против : некоторые считают этот формат устаревшим.
+
+
+Открытые форматы типа odt пока не очень распространены на постсоветском пространстве.
+
+Можно выбрать один формат (например, pdf) или отправить резюме в двух форматах: 1) doc или docx, 2) pdf.</text>
+		</slide>
+		<slide index="31" title="Назовите файл правильно" titleNormalized="назовите файл правильно" src="slide32.swf" size="4029" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Назовите файл правильно
+Специалисты, которые работают с персоналом, получают множество файлов с названием резюме.dос. Все эти файлы приходится переименовывать.
+Грамотное название файла с резюме обязательно содержит фамилию и имя. Кроме того, можно написать должность. Переводчики иногда отмечают языки, с которыми работают.
+Это правило касается рефератов и других текстов, которые вы отправляете преподавателям, заказчикам и т.д.
+Примеры названий:
+Alekseev_Aleksey.doc
+Алексеев Алексей (переводчик).doc
+Алексеев Алексей – переводчик (англ., нем.).pdf</text>
+		</slide>
+		<slide index="32" title="Сопроводительное письмо" titleNormalized="сопроводительное письмо" src="slide33.swf" size="1106" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Сопроводительное письмо</text>
+		</slide>
+		<slide index="33" title="Не забудьте написать сопроводительное письмо" titleNormalized="не забудьте написать сопроводительное письмо" src="slide34.swf" size="4598" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Не забудьте написать сопроводительное письмо
+Краткая версия
+1. Приветствие.
+2. Основная часть: обязательно включает название должности (переводчики указывают языки):
+Я хотел(а) бы работать в вашей компании… Прилагаю к письму резюме. Кроме того, можно рассказать о том, чем кандидат будет полезен фирме и что его привлекло в объявлении.
+3. Подпись.
+
+Полная версия
+Подробнее расскажите о себе:
+Кто вы? Чего вы достигли?
+Почему хотите работать в этой фирме? 
+Чем можете быть полезны?
+Резюме, отправленные с пустым письмом, выглядят недостаточно профессионально.
+Кроме того, в сопроводительном письме можно указать дополнительную информацию – например, расценки для письменных переводов, если вы не хотите включать эту информацию в текст резюме.
+
+Подробнее о сопроводительных письмах вы можете узнать в видео.</text>
+		</slide>
+		<quiz index="34" title="" titleNormalized="" src="quiz1.swf" size="1190040" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset34" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="35" title="Конец!" titleNormalized="конец!" src="slide36.swf" size="71429" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Конец!
+Перед тем как писать свое резюме, внимательно изучите вакансии, которые вам интересны, и проанализируйте резюме представителей вашей профессии.
+Надеюсь, эти материалы помогут вам составить хорошее резюме и найти работу (или хотя бы получить зачет).</text>
+		</slide>
+	</slides>
+</presentation>

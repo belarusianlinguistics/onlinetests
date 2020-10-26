@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251">
+</head>
+<body>
+	<script type="text/javascript">
+
+	function getImg(url) {
+
+		var img;
+		try {
+			img = new Image();
+		} catch (ignore) {
+			img = document.createElement("img");
+		}
+
+		img.src = url;
+	}
+
+	var parentData = window.location.hash;
+
+	if (parentData[0] === '#') {
+		parentData = parentData.substr(1);
+	}
+	parentData = parentData.split(':');
+
+	var url = decodeURIComponent(parentData[0]);
+	var ref = decodeURIComponent(parentData[1]);
+	var title = decodeURIComponent(parentData[2]);
+
+	</script>
+	<script type="text/javascript" src="fr_data_002/collect.js"></script>
+	<script type="text/javascript" src="fr_data_002/uid.js"></script>
+	<script type="text/javascript">
+
+	getImg('//advombat.ru/0.gif?pid=PLUSO&id='+escape(ref) + '&url=' + escape(url) + '&uid=' + xidx_uid);
+
+	(function () {
+		var document = {};
+		document.referrer = ref;
+		loadFacetzCollector("pluso", xidx_uid);	
+	}());
+	</script>
+
+<!--MediaTarget--><iframe src="fr_data_002/240x400.htm" vspace="0" hspace="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" height="400" width="240"></iframe><!--/MediaTarget-->
+
+
+
+</body></html>

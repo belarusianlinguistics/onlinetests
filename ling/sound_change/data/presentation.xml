@@ -1,0 +1,882 @@
+<?xml version="1.0"?>
+<presentation title="Изменения звуков речи" width="1000.0000000" height="750.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{8B359BFE-704B-4A87-8964-B63BA6D572A9}">
+	<presenters/>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="4224" duration="522"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="4224" duration="522"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Изменения звуков речи" titleNormalized="изменения звуков речи" src="slide1.swf" size="1392" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Изменения звуков речи
+Введение в языкознание
+Минский государственный лингвистический университет
+
+(с) О. С. Горицкая, 2015</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="28370" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Содержание
+
+Вы можете изучать все вопросы подряд или выбрать 
+любую тему</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="1438" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Причины изменений звуков речи
+Коартикуляция
+Общие вопросы</text>
+		</slide>
+		<slide index="3" title="В потоке речи звуки изменяются" titleNormalized="в потоке речи звуки изменяются" src="slide4.swf" size="2469" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>В потоке речи звуки изменяются
+Человек стремится к экономии усилий и «оптимизирует» произношение. 
+Органы речевого аппарата не всегда могут быстро перестроиться с одного звука на другой. 
+Это заметно произнесении скороговорок. Особенно сложно произносить скороговорки на согласные звуки, которые образуются близко друг от друга разными способами. 
+Например: Тридцать три корабля лавировали, лавировали, да не вылавировали.
+[r] – переднеязычный (передненёбный), вибрант;
+[l] – переднеязычный (зубной), боковой.
+
+ 
+Общие вопросы</text>
+		</slide>
+		<slide index="4" title="В потоке речи звуки взаимодействуют" titleNormalized="в потоке речи звуки взаимодействуют" src="slide5.swf" size="31137" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>В потоке речи звуки взаимодействуют
+Звуки «склеиваются» и влияют друг на друга (наблюдается коартикуляция – от лат. coarticulatio ‘совместная артикуляция’). Например, конец артикуляции одного звука накладывается на начало артикуляции другого и т.п.
+Чтобы убедиться в этом, произнесите:
+слово кот – [kot];
+3 звука один за другим – [k], [o], [t].
+
+
+Общие вопросы
+</text>
+		</slide>
+		<slide index="5" title="Кот [kot] – это не ток [tok] наоборот" titleNormalized="кот [kot] – это не ток [tok] наоборот" src="slide6.swf" size="8136" advanceOnTime="0" framesCount="2" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+			<sounds>
+				<sound id="sound0" soundAssetId="sndAsset0" hasTriggerEffects="1" slides="1" repeat="1" volume="0.8000000" effect="0"/>
+				<sound id="sound1" soundAssetId="sndAsset1" hasTriggerEffects="1" slides="1" repeat="1" volume="0.8000000" effect="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Кот [kot] – это не ток [tok] наоборот
+Послушайте, как звучит английское слово wine ‘вино’ [waɪn]. 
+Как вы думаете, что вы услышите, если воспроизведете это слово задом наперед?
+Проверьте свою интуицию. 
+В чем разница? Например, кажется, что звук [w] в перевернутой записи больше похож на гласный, чем на согласный.
+
+Общие вопросы
+
+Более подробно об этих примерах можно почитать на сайте australianlinguistics.com.
+Устная речь – это не цепочка изолированных звуков. Фонетическая транскрипция отчасти «обманывает» нас.</text>
+		</slide>
+		<slide index="6" title="Примеры из кино" titleNormalized="примеры из кино" src="slide7.swf" size="263504" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_23367a30.spr0_7438158" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23367a30.spr2_7438158" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_23368030.spr0_7448470" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_23368030.spr2_7448470" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Примеры из кино
+Общие вопросы
+
+Один из актеров рассказывает о съемке таких сцен здесь.
+Эффект коартикуляции использовал Д. Линч в некоторых сценах сериала «Твин Пикс» для создания потусторонней, мистической атмосферы. Актеры должны были произносить текст задом наперед (не [waɪn], а [nɪаw]) и двигаться «зеркально». Потом запись «переворачивалась».
+Фрагмент сериала
+Запись, проигранная задом наперед (примерно так снималась сцена)</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="1464" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Позиционные и комбинаторные изменения звуков речи
+Типы изменений звуков речи</text>
+		</slide>
+		<slide index="8" title="Позиционные и комбинаторные изменения звуков речи" titleNormalized="позиционные и комбинаторные изменения звуков речи" src="slide9.swf" size="3126" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Позиционные и комбинаторные изменения звуков речи
+Позиционные изменения
+Звук попадает в определенную позицию и изменяется. 
+Например, в русском языке на конце слова согласные оглушаются:
+глаза – [z],
+глаз – [s], позиционное изменение.
+
+
+≈ Корабль попадает в Бермудский треугольник, и там с ним что-то происходит.
+
+
+
+Комбинаторные изменения
+Звук изменяется под влиянием других звуков. 
+Так, оглушение может происходить и под влиянием другого звука:
+глаза – [z],
+глазки – [z] превратился в [s] под влиянием глухого [k], комбинаторное изменение.
+≈ Один человек влияет на другого (плохо или хорошо). 
+
+
+
+
+
+Типы изменений звуков речи</text>
+		</slide>
+		<slide index="9" title="Типы позиционных изменений" titleNormalized="типы позиционных изменений" src="slide10.swf" size="212131" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Типы позиционных изменений
+Позиционные изменения звуков речи
+</text>
+		</slide>
+		<slide index="10" title="Изменения звуков речи имеют специфику в разных языках мира" titleNormalized="изменения звуков речи имеют специфику в разных языках мира" src="slide11.swf" size="2527" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Изменения звуков речи имеют специфику в разных языках мира
+Примеры:
+
+В русском языке есть и оглушение согласных на конце слова, и редукция гласных.
+В белорусском языке редукция гораздо слабее, чем в русском. 
+В английском языке на конце слова нет оглушения и поэтому различаются глухие и звонкие согласные.
+
+Позиционные изменения звуков речи
+
+Подобные примеры можно найти и на другие изменения звуков речи.
+У каждого языка свои представления об удобстве артикуляции.</text>
+		</slide>
+		<slide index="11" title="Типы комбинаторных изменений" titleNormalized="типы комбинаторных изменений" src="slide12.swf" size="36623" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Типы комбинаторных изменений
+Комбинаторные изменения звуков речи
+
+Конечно, изменений звуков гораздо больше. Это лишь основные.</text>
+		</slide>
+		<slide index="12" title="Аккомодация - уподобление разнотипных звуков" titleNormalized="аккомодация - уподобление разнотипных звуков" src="slide13.swf" size="51255" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Аккомодация - уподобление разнотипных звуков
+Комбинаторные изменения звуков речи (аккомодация)
+
+Гласный влияет на согласный или согласный влияет на гласный. 
+
+Некоторые разновидности: лабиализация и назализация.
+аккомодация</text>
+		</slide>
+		<slide index="13" title="Лабиализация согласных" titleNormalized="лабиализация согласных" src="slide14.swf" size="34716" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Лабиализация согласных 
+Согласные, которые стоят перед лабиализованными гласными, тоже становятся огубленными.
+Сравните произношение первых звуков в словах ток и так. В слове ток губы начинают сворачиваться в трубочку еще при произнесении звука [t].
+
+Комбинаторные изменения (аккомодация)
+Видео с сайта http://soundsofspeech.uiowa.edu.</text>
+		</slide>
+		<slide index="14" title="Назализация гласных" titleNormalized="назализация гласных" src="slide15.swf" size="31432" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Назализация гласных 
+Под влиянием носовых согласных последующие гласные приобретают носовой призвук. 
+Это связано с тем, что увула и мягкое нёбо не успевают перестроиться, поэтому путь в носовую полость для струи воздуха остается открытым.
+Так, [o] в слове нос получается носовым, а в босс – нет.
+
+Комбинаторные изменения (аккомодация)
+Видео с сайта http://soundsofspeech.uiowa.edu.</text>
+		</slide>
+		<slide index="15" title="Ассимиляция – уподобление однотипных звуков" titleNormalized="ассимиляция – уподобление однотипных звуков" src="slide16.swf" size="32948" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ассимиляция – уподобление однотипных звуков
+Согласные могут уподобляться по разным параметрам: 
+по глухости или звонкости, 
+по твердости или мягкости, 
+по месту и способу образования.
+
+Комбинаторные изменения (ассимиляция)
+
+Согласные уподобляются согласным, а гласные – гласным.</text>
+		</slide>
+		<slide index="16" title="Ассимиляция согласных" titleNormalized="ассимиляция согласных" src="slide17.swf" size="3400" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ассимиляция согласных
+Ассимиляция по работе голосовых связок
+Например, по глухости:
+звонкий + глухой &gt; глухой + глухой.
+Сравните глаза и глазки. В слове глазки произносится звук [s], а не [z] под влиянием звука [k].
+
+
+Ассимиляция по наличию дополнительной артикуляции
+Например, по мягкости:
+твердый + мягкий &gt; мягкий + мягкий.
+Сравните слова талон и талончик. В слове талончик произносится мягкий звук [nʲ] под влиянием мягкого [tɕ] ([ч’]). 
+Комбинаторные изменения (ассимиляция)
+
+Звуки в транскрипции даются по международному фонетическому алфавиту (IPA). Вы можете пользоваться привычными школьными символами.
+</text>
+		</slide>
+		<slide index="17" title="Ассимиляция в белорусском языке" titleNormalized="ассимиляция в белорусском языке" src="slide18.swf" size="41740" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ассимиляция в белорусском языке
+В белорусском языке согласные смягчаются сильнее, чем в русском. 
+Например, в белорусском слове смех первый звук произносится мягче, чем в аналогичном русском слове. 
+В одном из вариантов белорусской орфографии (т.н. тарашкевице) ассимилятивная мягкость отражается на письме.
+
+Комбинаторные изменения (ассимиляция)
+</text>
+		</slide>
+		<slide index="18" title="Ассимиляция согласных" titleNormalized="ассимиляция согласных" src="slide19.swf" size="2983" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ассимиляция согласных
+Ассимиляция по месту образования
+Пример: сшить – s+ ʂ &gt; ʂ+ ʂ (долгий [ш]):
+[s] – щелевой (фрикативный), зубной;
+[ʂ] – щелевой (фрикативный), передненёбный.
+Т.е. в данном случае место произнесения первого звука отодвигается в глубь рта.
+
+
+Ассимиляция по способу образования
+Пример: в некоторых диалектах в слове обман произносят не [b+m], а [m+m]:
+[b] – губно-губной, взрывной;
+[m] – губно-губной, носовой. 
+Таким образом, первый звук изменяет способ образования – превращается из взрывного в носовой.
+Комбинаторные изменения (ассимиляция)
+</text>
+		</slide>
+		<slide index="19" title="Ассимиляция гласных" titleNormalized="ассимиляция гласных" src="slide20.swf" size="3314" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ассимиляция гласных
+В ряде языков мира (например, в тюркских) гласные обязательно уподобляются друг другу в пределах слова. Это явление называется сингармонизм (гармония гласных).
+Например, в турецком языке есть показатель мн.ч., который может выглядеть по-разному:
+oda ‘комната’ – odalar ‘комнаты’, 
+ev ‘дом’ – evler ‘дома’.
+
+Комбинаторные изменения (ассимиляция)
+
+По совпадению гласных можно распознать заимствования из тюркских языков. 
+Примеры: карандаш, таракан, баклажан, сундук, чугун.
+Конечно, в тюркских языках гласные не всегда совпадают (они должны становиться похожими, но не обязательно одинаковыми).</text>
+		</slide>
+		<slide index="20" title="Диссимиляция – расподобление однотипных звуков" titleNormalized="диссимиляция – расподобление однотипных звуков" src="slide21.swf" size="30147" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Диссимиляция – расподобление однотипных звуков
+Русское слово коридор – это заимствование из немецкого языка (Korridor).
+Белорусское слово калідор c тем же значением – результат диссимиляции.
+…r…r &gt; …l…r
+Комбинаторные изменения (диссимиляция)
+
+Обычно согласные расподобляются с согласными.</text>
+		</slide>
+		<slide index="21" title="Не путайте ассимиляцию и диссимиляцию" titleNormalized="не путайте ассимиляцию и диссимиляцию" src="slide22.swf" size="49874" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Не путайте ассимиляцию и диссимиляцию
+Ассимиляция: звуки были разными – стали похожими.
+Диссимиляция: звуки были похожими – стали разными.
+Комбинаторные изменения
+</text>
+		</slide>
+		<slide index="22" title="Звуки могут добавляться, убираться и меняться местами" titleNormalized="звуки могут добавляться, убираться и меняться местами" src="slide23.swf" size="9153" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Звуки могут добавляться, убираться и меняться местами
+Выкидка звуков
+= диэреза (диереза)
+
+Пример: капуста, но капустный - [sn], звук [t] выбрасывается.
+Добавление звуков
+1) в начале слова – протеза (есть в белорусском слове восень; сравните с русским осень); 
+2) не в начале слова – эпентеза (в белорусском слове шпіён между [i] и [o] вставлен звук [j], сравните с немецким Sрiоn и русским шпион).
+Перестановка звуков –
+= метатеза
+Пример – от латинского marmor произошло русское слово мрамор: 
+[ar] &gt; [ra].
+Комбинаторные изменения
+Иногда термин эпентеза используется в более широком значении (добавление звука или звуков в любое место).</text>
+		</slide>
+		<slide index="23" title="Повторение типов" titleNormalized="повторение типов" src="slide24.swf" size="65917" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Повторение типов
+Комбинаторные изменения</text>
+		</slide>
+		<slide index="24" title="Направление изменений звуков" titleNormalized="направление изменений звуков" src="slide25.swf" size="9956" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Направление изменений звуков
+Регрессивные изменения: второй звук влияет на первый («предвосхищение»).
+Органы речи готовятся к произнесению последующего звука заранее – при произнесении предыдущего звука. 
+Уже был пример со словами глаза и глазки. В слове глазки произносится звук [s], а не [z] под влиянием последующего звука [k].
+Прогрессивные изменения: первый влияет на второй («инерция»).
+Некоторые элементы артикуляции предыдущего звука сохраняются при произнесении последующего.
+В английском языке окончание мн.ч. -s может читаться как [s] и как [z]:
+dogs ‘собаки’: [g] – звонкий, поэтому [gz] (звонкий + звонкий);
+cats ‘кошки’: [t] – глухой, поэтому [ts] (глухой + глухой).
+
+Комбинаторные изменения
+</text>
+		</slide>
+		<slide index="25" title="Положение звуков" titleNormalized="положение звуков" src="slide26.swf" size="8181" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Положение звуков
+Контактные изменения: звуки находятся рядом.
+Уже был пример контактной метатезы: от латинского marmor произошло русское слово мрамор. 
+[ar] &gt; [ra]
+
+Дистантные изменения: звуки находятся не рядом.
+Пример дистантной метатезы: тарелка – это заимствование из немецкого (раньше Talier, теперь Teller) через польский. 
+l…r &gt; r…l
+В белорусском языке метатеза не произошла (талерка).
+Комбинаторные изменения
+</text>
+		</slide>
+		<slide index="26" title="Степень изменений" titleNormalized="степень изменений" src="slide27.swf" size="41879" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Степень изменений
+Полные 
+При полной ассимиляции звуки становятся одинаковыми.
+Пример: сшить – s+ ʂ &gt; ʂ+ ʂ (долгий [ш]).
+
+
+Неполные
+При неполной ассимиляции звуки не становятся одинаковыми, у них только появляется какая-то общая характеристика.
+Пример: слове талончик произносится мягкий звук [nʲ] под влиянием мягкого [tɕ] ([ч’]). 
+Комбинаторные изменения
+</text>
+		</slide>
+		<quiz index="27" title="Тест" titleNormalized="тест" src="quiz1.swf" size="1003990" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset27" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="1464" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Исторические чередования гласных и согласных (на примере русского языка)
+Исторические чередования</text>
+		</slide>
+		<slide index="29" title="Не все чередования звуков можно объяснить живыми фонетическими процессами" titleNormalized="не все чередования звуков можно объяснить живыми фонетическими процессами" src="slide30.swf" size="2315" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Не все чередования звуков можно объяснить живыми фонетическими процессами
+Исторические чередования звуков – пережитки фонетических явлений, которые были в языке раньше.
+
+Знание исторических чередований помогает понять некоторые особенности современного языка. Например:
+Почему мы говорим сон, но сна? 
+Почему я могу, но ты можешь?
+Исторические чередования</text>
+		</slide>
+		<slide index="30" title="Исторические изменения гласных" titleNormalized="исторические изменения гласных" src="slide31.swf" size="3495" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Исторические изменения гласных
+В праславянском языке были особые сверхкраткие редуцированные звуки [ъ] (ер) и [ь] (ерь): 
+*сънъ ‘сон’ – *съна ‘сна’, 
+*дьнь ‘день’ – *дьня ‘дня’ . 
+В зависимости от позиции некоторые редуцированные исчезли, а некоторые превратились в [о] и [e].
+
+Почему сон, но сна?
+В слове сон первый [ъ] превратился в [о], а второй – исчез.
+В слове сна единственный редуцированный исчез.
+
+Исторические чередования
+
+Вообще, обычно праславянские слова пишут латиницей (не *сънъ, а *sъnъ), но здесь для простоты написано кириллицей. Звездочки обозначают, что это формы, реконструированные учеными (текстов той эпохи нет).</text>
+		</slide>
+		<slide index="31" title="Исторические чередования согласных" titleNormalized="исторические чередования согласных" src="slide32.swf" size="2610" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Исторические чередования согласных
+Пример – чередования заднеязычных с переднеязычными (передненёбными).
+В определенный момент в праславянском языке (предке всех славянских языков) изменились законы сочетаемости звуков: [k],[g],[х] больше не могли сочетаться с гласными переднего ряда ([e], [i]). Поэтому согласные смягчились и изменили место образования. 
+Примеры: могу – можешь, рука – рученька, сухой – сушить.
+
+
+Исторические чередования
+</text>
+		</slide>
+		<slide index="32" title="Вы прошли тему «Изменения звуков речи»!" titleNormalized="вы прошли тему «изменения звуков речи»!" src="slide33.swf" size="9579" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Вы прошли тему «Изменения звуков речи»!
+Конец</text>
+		</slide>
+	</slides>
+</presentation>
