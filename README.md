@@ -1,5 +1,3 @@
-# Online tests on Linguistics and Theory of Russian Language
+# Online tests on Linguistics and the Theory of Russian Language
 
-Жыве Беларусь!!!
-
-All they are available at onlinetests.philology.by
+All tests are available at onlinetests.philology.by
